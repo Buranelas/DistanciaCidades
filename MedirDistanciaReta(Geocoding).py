@@ -19,7 +19,7 @@ def obter_coordenadas_google_maps(cidade, estado, api_key):
         return None, None
 
 def main():
-    api_key = 'AIzaSyAUlO7WPk7PR2cat3JTl3UerhBF0V5y-AM'  # Substitua pela sua chave de API do Google Maps
+    api_key = 'sua_chave_api_google_cloud'  # Substitua pela sua chave de API do Google Maps
 
     # Ler o CSV com o separador correto
     df = pd.read_csv('Cidades CSV.csv', sep=';')

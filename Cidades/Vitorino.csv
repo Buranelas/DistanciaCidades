@@ -1,0 +1,694 @@
+Cidade 1;Estado 1;Cidade 2;Estado 2;Distância (km)
+Vitorino;PR;Curitiba;PR;452.32
+Vitorino;PR;Londrina;PR;509.43
+Vitorino;PR;Maringá;PR;491.91
+Vitorino;PR;Ponta Grossa;PR;358.53
+Vitorino;PR;Cascavel;PR;217.57
+Vitorino;PR;São José dos Pinhais;PR;469.45
+Vitorino;PR;Foz do Iguaçu;PR;324.18
+Vitorino;PR;Colombo;PR;467.85
+Vitorino;PR;Guarapuava;PR;200.7
+Vitorino;PR;Araucária;PR;444.2
+Vitorino;PR;Toledo;PR;254.84
+Vitorino;PR;Fazenda Rio Grande;PR;468.8
+Vitorino;PR;Paranaguá;PR;549.39
+Vitorino;PR;Campo Largo;PR;422.03
+Vitorino;PR;Apucarana;PR;458.63
+Vitorino;PR;Pinhais;PR;459.53
+Vitorino;PR;Almirante Tamandaré;PR;461.69
+Vitorino;PR;Arapongas;PR;481.34
+Vitorino;PR;Piraquara;PR;487.67
+Vitorino;PR;Sarandi;PR;498.8
+Vitorino;PR;Umuarama;PR;379.57
+Vitorino;PR;Cambé;PR;503.47
+Vitorino;PR;Campo Mourão;PR;399.07
+Vitorino;PR;Francisco Beltrão;PR;42.78
+Vitorino;PR;Paranavaí;PR;525.95
+Vitorino;PR;Pato Branco;PR;15.24
+Vitorino;PR;Cianorte;PR;438.9
+Vitorino;PR;Telêmaco Borba;PR;455.77
+Vitorino;PR;Castro;PR;392.85
+Vitorino;PR;Rolândia;PR;496.55
+Vitorino;PR;Irati;PR;301.59
+Vitorino;PR;União da Vitória;PR;240.42
+Vitorino;PR;Marechal Cândido Rondon;PR;295.31
+Vitorino;PR;Ibiporã;PR;522.23
+Vitorino;PR;Prudentópolis;PR;262.47
+Vitorino;PR;Palmas;PR;109.25
+Vitorino;PR;Campina Grande do Sul;PR;481.25
+Vitorino;PR;Medianeira;PR;266.23
+Vitorino;PR;Santo Antônio da Platina;PR;582.56
+Vitorino;PR;Paiçandu;PR;492.51
+Vitorino;PR;Cornélio Procópio;PR;573.46
+Vitorino;PR;Lapa;PR;426.4
+Vitorino;PR;Dois Vizinhos;PR;92.57
+Vitorino;PR;São Mateus do Sul;PR;324.4
+Vitorino;PR;Guaratuba;PR;579.43
+Vitorino;PR;Jacarezinho;PR;603.58
+Vitorino;PR;Marialva;PR;479.51
+Vitorino;PR;Matinhos;PR;569.33
+Vitorino;PR;Rio Branco do Sul;PR;476.47
+Vitorino;PR;Assis Chateaubriand;PR;293.39
+Vitorino;PR;Mandaguari;PR;465.61
+Vitorino;PR;Jaguariaíva;PR;470.05
+Vitorino;PR;Palotina;PR;308.13
+Vitorino;PR;Palmeira;PR;372.7
+Vitorino;PR;Pitanga;PR;282.88
+Vitorino;PR;Ivaiporã;PR;354.37
+Vitorino;PR;Laranjeiras do Sul;PR;142.62
+Vitorino;PR;Guaíra;PR;355.83
+Vitorino;PR;Mandaguaçu;PR;505.16
+Vitorino;PR;Rio Negro;PR;388.03
+Vitorino;PR;Bandeirantes;PR;609.59
+Vitorino;PR;Itaperuçu;PR;475.99
+Vitorino;PR;Quedas do Iguaçu;PR;148.98
+Vitorino;PR;Pontal do Paraná;PR;559.66
+Vitorino;PR;Imbituva;PR;306.19
+Vitorino;PR;Campo Magro;PR;448.18
+Vitorino;PR;Pinhão;PR;182.77
+Vitorino;PR;São Miguel do Iguaçu;PR;282.25
+Vitorino;PR;Ibaiti;PR;515.4
+Vitorino;PR;Goioerê;PR;338.3
+Vitorino;PR;Mandirituba;PR;454.82
+Vitorino;PR;Nova Esperança;PR;526.38
+Vitorino;PR;Arapoti;PR;485.31
+Vitorino;PR;Santa Helena;PR;297.79
+Vitorino;PR;Astorga;PR;515.57
+Vitorino;PR;Ubiratã;PR;301.0
+Vitorino;PR;Reserva;PR;429.26
+Vitorino;PR;Santa Terezinha de Itaipu;PR;302.4
+Vitorino;PR;Ortigueira;PR;467.48
+Vitorino;PR;Quatro Barras;PR;483.89
+Vitorino;PR;Cruzeiro do Oeste;PR;401.11
+Vitorino;PR;Santo Antônio do Sudoeste;PR;128.98
+Vitorino;PR;Piraí do Sul;PR;424.64
+Vitorino;PR;Coronel Vivida;PR;47.65
+Vitorino;PR;Carambeí;PR;372.96
+Vitorino;PR;Loanda;PR;504.79
+Vitorino;PR;Cambará;PR;619.68
+Vitorino;PR;Colorado;PR;579.46
+Vitorino;PR;Siqueira Campos;PR;548.17
+Vitorino;PR;Jandaia do Sul;PR;442.3
+Vitorino;PR;Chopinzinho;PR;66.94
+Vitorino;PR;Capanema;PR;145.99
+Vitorino;PR;Tibagi;PR;420.72
+Vitorino;PR;Andirá;PR;624.84
+Vitorino;PR;Ampére;PR;98.22
+Vitorino;PR;Realeza;PR;113.35
+Vitorino;PR;Wenceslau Braz;PR;520.75
+Vitorino;PR;Contenda;PR;449.33
+Vitorino;PR;Cafelândia;PR;273.12
+Vitorino;PR;Altônia;PR;374.03
+Vitorino;PR;Matelândia;PR;252.57
+Vitorino;PR;Quitandinha;PR;430.42
+Vitorino;PR;Morretes;PR;527.76
+Vitorino;PR;Terra Roxa;PR;337.66
+Vitorino;PR;Antonina;PR;542.08
+Vitorino;PR;Tijucas do Sul;PR;512.03
+Vitorino;PR;Terra Boa;PR;452.38
+Vitorino;PR;Corbélia;PR;247.64
+Vitorino;PR;Sengés;PR;507.16
+Vitorino;PR;Mangueirinha;PR;92.14
+Vitorino;PR;Faxinal;PR;416.68
+Vitorino;PR;Cerro Azul;PR;531.98
+Vitorino;PR;Cruz Machado;PR;282.8
+Vitorino;PR;Sertanópolis;PR;556.12
+Vitorino;PR;Marmeleiro;PR;32.77
+Vitorino;PR;Tapejara;PR;406.28
+Vitorino;PR;Bituruna;PR;255.47
+Vitorino;PR;Cândido de Abreu;PR;357.19
+Vitorino;PR;Salto do Lontra;PR;100.19
+Vitorino;PR;Clevelândia;PR;52.53
+Vitorino;PR;Candói;PR;126.07
+Vitorino;PR;Terra Rica;PR;556.09
+Vitorino;PR;Bela Vista do Paraíso;PR;552.98
+Vitorino;PR;Capitão Leônidas Marques;PR;148.55
+Vitorino;PR;Rebouças;PR;318.95
+Vitorino;PR;Ipiranga;PR;349.0
+Vitorino;PR;Santa Izabel do Oeste;PR;106.09
+Vitorino;PR;Rio Azul;PR;305.08
+Vitorino;PR;Alto Paraná;PR;541.38
+Vitorino;PR;Assaí;PR;553.8
+Vitorino;PR;São João do Triunfo;PR;353.18
+Vitorino;PR;Curiúva;PR;502.46
+Vitorino;PR;Tamarana;PR;462.71
+Vitorino;PR;Carlópolis;PR;603.51
+Vitorino;PR;Paraíso do Norte;PR;495.5
+Vitorino;PR;Ivaí;PR;309.34
+Vitorino;PR;Araruna;PR;421.8
+Vitorino;PR;Peabirú;PR;418.32
+Vitorino;PR;Engenheiro Beltrão;PR;435.03
+Vitorino;PR;Campina da Lagoa;PR;331.31
+Vitorino;PR;Jaguapitã;PR;524.73
+Vitorino;PR;Mallet;PR;305.53
+Vitorino;PR;General Carneiro;PR;201.16
+Vitorino;PR;Iporã;PR;350.33
+Vitorino;PR;Manoel Ribas;PR;318.42
+Vitorino;PR;Imbaú;PR;432.98
+Vitorino;PR;Planalto;PR;139.26
+Vitorino;PR;Cantagalo;PR;167.39
+Vitorino;PR;Bocaiuva do Sul;PR;489.73
+Vitorino;PR;Rio Bonito do Iguaçu;PR;125.95
+Vitorino;PR;Balsa Nova;PR;433.66
+Vitorino;PR;Nova Londrina;PR;534.02
+Vitorino;PR;Piên;PR;445.87
+Vitorino;PR;Turvo;PR;236.95
+Vitorino;PR;Cidade Gaúcha;PR;447.16
+Vitorino;PR;Mamborê;PR;361.42
+Vitorino;PR;Ribeirão do Pinhal;PR;586.54
+Vitorino;PR;Teixeira Soares;PR;323.93
+Vitorino;PR;Palmital;PR;221.61
+Vitorino;PR;Jataizinho;PR;533.04
+Vitorino;PR;Porecatu;PR;562.13
+Vitorino;PR;Querência do Norte;PR;475.94
+Vitorino;PR;Guaraniaçu;PR;208.66
+Vitorino;PR;Santa Fé;PR;543.57
+Vitorino;PR;Itapejara d'Oeste;PR;50.84
+Vitorino;PR;Ventania;PR;464.13
+Vitorino;PR;Moreira Sales;PR;359.3
+Vitorino;PR;Três Barras do Paraná;PR;181.94
+Vitorino;PR;Joaquim Távora;PR;579.16
+Vitorino;PR;Céu Azul;PR;232.42
+Vitorino;PR;Santa Mariana;PR;589.72
+Vitorino;PR;Paranacity;PR;558.25
+Vitorino;PR;Nova Laranjeiras;PR;160.61
+Vitorino;PR;Alvorada do Sul;PR;580.04
+Vitorino;PR;Barbosa Ferraz;PR;414.47
+Vitorino;PR;Itaipulândia;PR;296.11
+Vitorino;PR;Pérola;PR;382.11
+Vitorino;PR;Uraí;PR;563.32
+Vitorino;PR;Jardim Alegre;PR;358.6
+Vitorino;PR;Primeiro de Maio;PR;580.59
+Vitorino;PR;São Jerônimo da Serra;PR;555.08
+Vitorino;PR;Inácio Martins;PR;257.39
+Vitorino;PR;São Pedro do Ivaí;PR;465.59
+Vitorino;PR;Mauá da Serra;PR;438.02
+Vitorino;PR;Centenário do Sul;PR;559.39
+Vitorino;PR;Missal;PR;294.33
+Vitorino;PR;Ribeirão Claro;PR;632.18
+Vitorino;PR;Nova Prata do Iguaçu;PR;119.42
+Vitorino;PR;Florestópolis;PR;548.54
+Vitorino;PR;Mariluz;PR;367.96
+Vitorino;PR;Barracão;PR;104.5
+Vitorino;PR;Nova Aurora;PR;285.45
+Vitorino;PR;São João;PR;74.35
+Vitorino;PR;Catanduvas;PR;210.7
+Vitorino;PR;Iretama;PR;345.73
+Vitorino;PR;Santa Tereza do Oeste;PR;204.54
+Vitorino;PR;São João do Ivaí;PR;387.48
+Vitorino;PR;Alto Piquiri;PR;345.22
+Vitorino;PR;Roncador;PR;266.34
+Vitorino;PR;Rondon;PR;471.37
+Vitorino;PR;Japurá;PR;461.72
+Vitorino;PR;Agudos do Sul;PR;460.53
+Vitorino;PR;Santa Maria do Oeste;PR;242.01
+Vitorino;PR;São Jorge d'Oeste;PR;102.57
+Vitorino;PR;Tunas do Paraná;PR;528.29
+Vitorino;PR;Douradina;PR;434.34
+Vitorino;PR;São Sebastião da Amoreira;PR;571.53
+Vitorino;PR;Congonhinhas;PR;572.17
+Vitorino;PR;Marilândia do Sul;PR;463.17
+Vitorino;PR;Guamiranga;PR;280.22
+Vitorino;PR;Califórnia;PR;470.32
+Vitorino;PR;Tuneiras do Oeste;PR;387.1
+Vitorino;PR;Santa Isabel do Ivaí;PR;487.75
+Vitorino;PR;Vera Cruz do Oeste;PR;237.89
+Vitorino;PR;Jesuítas;PR;308.57
+Vitorino;PR;Nova Santa Rosa;PR;292.11
+Vitorino;PR;Ivaté;PR;427.01
+Vitorino;PR;Nova Fátima;PR;585.87
+Vitorino;PR;Tupãssi;PR;274.73
+Vitorino;PR;Reserva do Iguaçu;PR;136.28
+Vitorino;PR;Campo do Tenente;PR;406.86
+Vitorino;PR;Cambira;PR;448.89
+Vitorino;PR;Tomazina;PR;539.53
+Vitorino;PR;Icaraíma;PR;443.53
+Vitorino;PR;Santa Cruz de Monte Castelo;PR;502.71
+Vitorino;PR;Figueira;PR;524.76
+Vitorino;PR;Guaraqueçaba;PR;630.82
+Vitorino;PR;Boa Vista da Aparecida;PR;167.26
+Vitorino;PR;Coronel Domingos Soares;PR;105.0
+Vitorino;PR;Quatiguá;PR;567.91
+Vitorino;PR;Antônio Olinto;PR;354.64
+Vitorino;PR;Abatiá;PR;601.2
+Vitorino;PR;Paulo Frontin;PR;284.32
+Vitorino;PR;Juranda;PR;325.42
+Vitorino;PR;Luiziana;PR;379.82
+Vitorino;PR;Bom Sucesso;PR;443.99
+Vitorino;PR;Verê;PR;66.31
+Vitorino;PR;Marilena;PR;538.0
+Vitorino;PR;Goioxim;PR;223.11
+Vitorino;PR;Jussara;PR;453.37
+Vitorino;PR;São Carlos do Ivaí;PR;513.54
+Vitorino;PR;Sabáudia;PR;500.13
+Vitorino;PR;Floresta;PR;465.03
+Vitorino;PR;Renascença;PR;26.76
+Vitorino;PR;Sapopema;PR;522.44
+Vitorino;PR;Mariópolis;PR;30.01
+Vitorino;PR;Guairaçá;PR;530.28
+Vitorino;PR;Itambaracá;PR;621.33
+Vitorino;PR;Amaporã;PR;512.57
+Vitorino;PR;Ibema;PR;225.9
+Vitorino;PR;Formosa do Oeste;PR;321.77
+Vitorino;PR;Boa Ventura de São Roque;PR;259.89
+Vitorino;PR;Pinhalão;PR;534.18
+Vitorino;PR;Borrazópolis;PR;392.85
+Vitorino;PR;Pérola d'Oeste;PR;138.68
+Vitorino;PR;Perobal;PR;360.41
+Vitorino;PR;São José da Boa Vista;PR;535.5
+Vitorino;PR;Itambé;PR;476.76
+Vitorino;PR;Ouro Verde do Oeste;PR;270.49
+Vitorino;PR;Doutor Camargo;PR;494.91
+Vitorino;PR;Francisco Alves;PR;333.45
+Vitorino;PR;Paula Freitas;PR;256.87
+Vitorino;PR;Enéas Marques;PR;70.67
+Vitorino;PR;Nova Olímpia;PR;425.79
+Vitorino;PR;São João do Caiuá;PR;556.53
+Vitorino;PR;Adrianópolis;PR;582.55
+Vitorino;PR;São Tomé;PR;453.53
+Vitorino;PR;Pato Bragado;PR;315.25
+Vitorino;PR;São Pedro do Iguaçu;PR;235.38
+Vitorino;PR;Laranjal;PR;243.01
+Vitorino;PR;Mercedes;PR;311.72
+Vitorino;PR;Maria Helena;PR;401.19
+Vitorino;PR;Xambrê;PR;396.8
+Vitorino;PR;Saudade do Iguaçu;PR;92.06
+Vitorino;PR;Maripá;PR;289.67
+Vitorino;PR;Fernandes Pinheiro;PR;313.01
+Vitorino;PR;Guaraci;PR;567.66
+Vitorino;PR;São Jorge do Ivaí;PR;499.76
+Vitorino;PR;São Jorge do Patrocínio;PR;387.91
+Vitorino;PR;Doutor Ulysses;PR;533.82
+Vitorino;PR;Tapira;PR;443.86
+Vitorino;PR;Santo Inácio;PR;585.81
+Vitorino;PR;Presidente Castelo Branco;PR;516.31
+Vitorino;PR;Grandes Rios;PR;431.07
+Vitorino;PR;Braganey;PR;270.71
+Vitorino;PR;Jaboti;PR;536.15
+Vitorino;PR;Diamante D'Oeste;PR;265.36
+Vitorino;PR;Nova Tebas;PR;329.26
+Vitorino;PR;Tamboara;PR;510.2
+Vitorino;PR;Sertaneja;PR;592.44
+Vitorino;PR;Pranchita;PR;136.02
+Vitorino;PR;Honório Serpa;PR;75.24
+Vitorino;PR;Nova Esperança do Sudoeste;PR;83.88
+Vitorino;PR;Diamante do Norte;PR;557.9
+Vitorino;PR;Lupionópolis;PR;591.15
+Vitorino;PR;Janiópolis;PR;365.46
+Vitorino;PR;Japira;PR;524.11
+Vitorino;PR;Santana do Itararé;PR;549.3
+Vitorino;PR;Porto Amazonas;PR;390.57
+Vitorino;PR;Floraí;PR;528.35
+Vitorino;PR;Salto do Itararé;PR;574.87
+Vitorino;PR;Lobato;PR;559.9
+Vitorino;PR;ova Cantu;PR;360.12
+Vitorino;PR;Fênix;PR;409.58
+Vitorino;PR;Lunardelli;PR;372.32
+Vitorino;PR;Marumbi;PR;425.44
+Vitorino;PR;Entre Rios do Oeste;PR;324.43
+Vitorino;PR;Rosário do Ivaí;PR;422.28
+Vitorino;PR;Flor da Serra do Sul;PR;66.97
+Vitorino;PR;Ramilândia;PR;258.82
+Vitorino;PR;Lindoeste;PR;177.3
+Vitorino;PR;Iguaraçu;PR;525.75
+Vitorino;PR;Indianópolis;PR;462.15
+Vitorino;PR;Foz do Jordão;PR;118.56
+Vitorino;PR;Serranópolis do Iguaçu;PR;278.06
+Vitorino;PR;Quinta do Sol;PR;427.98
+Vitorino;PR;Cruzeiro do Sul;PR;554.63
+Vitorino;PR;Itaguajé;PR;603.98
+Vitorino;PR;Quarto Centenário;PR;323.49
+Vitorino;PR;Nova Santa Bárbara;PR;569.44
+Vitorino;PR;Marquinho;PR;185.15
+Vitorino;PR;Planaltina do Paraná;PR;497.13
+Vitorino;PR;Cruzeiro do Iguaçu;PR;110.97
+Vitorino;PR;Rio Branco do Ivaí;PR;385.47
+Vitorino;PR;Porto Vitória;PR;249.31
+Vitorino;PR;Santa Mônica;PR;469.13
+Vitorino;PR;Virmond;PR;176.0
+Vitorino;PR;Quatro Pontes;PR;285.77
+Vitorino;PR;Munhoz de Melo;PR;537.63
+Vitorino;PR;Nossa Senhora das Graças;PR;561.06
+Vitorino;PR;Kaloré;PR;409.46
+Vitorino;PR;Boa Esperança;PR;351.69
+Vitorino;PR;Espigão Alto do Iguaçu;PR;157.2
+Vitorino;PR;Cafezal do Sul;PR;359.83
+Vitorino;PR;Leópolis;PR;601.14
+Vitorino;PR;Conselheiro Mairinck;PR;543.96
+Vitorino;PR;Atalaia;PR;537.25
+Vitorino;PR;Campina do Simão;PR;217.15
+Vitorino;PR;Prado Ferreira;PR;526.89
+Vitorino;PR;Santa Lúcia;PR;158.12
+Vitorino;PR;Guapirama;PR;565.03
+Vitorino;PR;Rancho Alegre;PR;589.97
+Vitorino;PR;Campo Bonito;PR;228.12
+Vitorino;PR;São José das Palmeiras;PR;295.51
+Vitorino;PR;Bom Jesus do Sul;PR;114.93
+Vitorino;PR;Nova América da Colina;PR;574.76
+Vitorino;PR;Ourizona;PR;511.19
+Vitorino;PR;Diamante do Sul;PR;206.24
+Vitorino;PR;Bela Vista da Caroba;PR;139.56
+Vitorino;PR;Salgado Filho;PR;81.73
+Vitorino;PR;Ivatuba;PR;487.14
+Vitorino;PR;Pitangueiras;PR;511.57
+Vitorino;PR;Paranapoema;PR;592.68
+Vitorino;PR;Santa Cecília do Pavão;PR;579.34
+Vitorino;PR;undiaí do Sul;PR;575.05
+Vitorino;PR;Bom Sucesso do Sul;PR;39.72
+Vitorino;PR;Santa Amélia;PR;616.72
+Vitorino;PR;Rio Bom;PR;442.1
+Vitorino;PR;Lidianópolis;PR;368.61
+Vitorino;PR;Mato Rico;PR;277.89
+Vitorino;PR;Porto Barreiro;PR;115.24
+Vitorino;PR;Inajá;PR;579.38
+Vitorino;PR;Corumbataí do Sul;PR;398.66
+Vitorino;PR;Farol;PR;383.89
+Vitorino;PR;Cafeara;PR;582.13
+Vitorino;PR;Arapuã;PR;350.97
+Vitorino;PR;Ângulo;PR;530.67
+Vitorino;PR;Cruzmaltina;PR;401.46
+Vitorino;PR;Sulina;PR;95.43
+Vitorino;PR;Godoy Moreira;PR;390.65
+Vitorino;PR;Novo Itacolomi;PR;427.25
+Vitorino;PR;Barra do Jacaré;PR;611.78
+Vitorino;PR;Anahy;PR;278.26
+Vitorino;PR;Pinhal de São Bento;PR;95.54
+Vitorino;PR;Flórida;PR;550.72
+Vitorino;PR;Itaúna do Sul;PR;547.75
+Vitorino;PR;Alto Paraíso;PR;424.63
+Vitorino;PR;Uniflor;PR;540.2
+Vitorino;PR;Santo Antônio do Caiuá;PR;570.43
+Vitorino;PR;Rancho Alegre D'Oeste;PR;343.89
+Vitorino;PR;Porto Rico;PR;520.01
+Vitorino;PR;Brasilândia do Sul;PR;316.75
+Vitorino;PR;Manfrinópolis;PR;73.25
+Vitorino;PR;Boa Esperança do Iguaçu;PR;111.86
+Vitorino;PR;São Pedro do Paraná;PR;518.44
+Vitorino;PR;Iguatu;PR;288.39
+Vitorino;PR;Guaporema;PR;482.94
+Vitorino;PR;Iracema do Oeste;PR;301.54
+Vitorino;PR;Mirador;PR;511.7
+Vitorino;PR;São Manoel do Paraná;PR;473.85
+Vitorino;PR;Santo Antônio do Paraíso;PR;588.65
+Vitorino;PR;Ariranha do Ivaí;PR;346.46
+Vitorino;PR;Miraselva;PR;538.69
+Vitorino;PR;Esperança Nova;PR;401.9
+Vitorino;PR;Santa Inês;PR;599.75
+Vitorino;PR;Altamira do Paraná;PR;274.08
+Vitorino;PR;Jardim Olinda;PR;605.18
+Vitorino;PR;Nova Aliança do Ivaí;PR;507.25
+Vitorino;PR;Joinville;SC;511.93
+Vitorino;PR;Florianópolis;SC;620.98
+Vitorino;PR;Blumenau;SC;550.0
+Vitorino;PR;São José;SC;606.86
+Vitorino;PR;Itajaí;SC;581.45
+Vitorino;PR;Chapecó;SC;120.29
+Vitorino;PR;Palhoça;SC;600.58
+Vitorino;PR;Criciúma;SC;587.38
+Vitorino;PR;Jaraguá do Sul;SC;484.66
+Vitorino;PR;Lages;SC;394.07
+Vitorino;PR;Brusque;SC;611.56
+Vitorino;PR;Balneário Camboriú;SC;592.62
+Vitorino;PR;Tubarão;SC;606.75
+Vitorino;PR;Camboriú;SC;593.23
+Vitorino;PR;Navegantes;SC;577.74
+Vitorino;PR;São Bento do Sul;SC;439.62
+Vitorino;PR;Concórdia;SC;193.09
+Vitorino;PR;Biguaçu;SC;618.73
+Vitorino;PR;Itapema;SC;604.71
+Vitorino;PR;Caçador;SC;248.03
+Vitorino;PR;Rio do Sul;SC;449.33
+Vitorino;PR;Gaspar;SC;559.38
+Vitorino;PR;Araranguá;SC;617.19
+Vitorino;PR;Indaial;SC;523.03
+Vitorino;PR;Içara;SC;599.73
+Vitorino;PR;Videira;SC;259.36
+Vitorino;PR;Mafra;SC;383.26
+Vitorino;PR;Canoinhas;SC;318.56
+Vitorino;PR;São Francisco do Sul;SC;546.02
+Vitorino;PR;Imbituba;SC;664.87
+Vitorino;PR;Xanxerê;SC;106.09
+Vitorino;PR;Tijucas;SC;621.32
+Vitorino;PR;Guaramirim;SC;493.57
+Vitorino;PR;Timbó;SC;501.09
+Vitorino;PR;Barra Velha;SC;544.08
+Vitorino;PR;Araquari;SC;525.89
+Vitorino;PR;São Miguel do Oeste;SC;135.9
+Vitorino;PR;Laguna;SC;637.09
+Vitorino;PR;Curitibanos;SC;339.36
+Vitorino;PR;Rio Negrinho;SC;421.89
+Vitorino;PR;Campos Novos;SC;268.13
+Vitorino;PR;Pomerode;SC;515.58
+Vitorino;PR;Braço do Norte;SC;565.16
+Vitorino;PR;Penha;SC;566.65
+Vitorino;PR;Fraiburgo;SC;296.21
+Vitorino;PR;Porto União;SC;243.04
+Vitorino;PR;São João Batista;SC;635.15
+Vitorino;PR;Xaxim;SC;122.87
+Vitorino;PR;Forquilhinha;SC;615.96
+Vitorino;PR;Itapoá;SC;583.89
+Vitorino;PR;Joaçaba;SC;226.31
+Vitorino;PR;Sombrio;SC;611.03
+Vitorino;PR;Garopaba;SC;646.05
+Vitorino;PR;Maravilha;SC;100.2
+Vitorino;PR;Porto Belo;SC;616.45
+Vitorino;PR;Santo Amaro da Imperatriz;SC;583.93
+Vitorino;PR;Balneário Piçarras;SC;559.61
+Vitorino;PR;Ituporanga;SC;474.12
+Vitorino;PR;São Joaquim;SC;473.87
+Vitorino;PR;Bombinhas;SC;625.77
+Vitorino;PR;São Lourenço do Oeste;SC;13.86
+Vitorino;PR;Guabiruba;SC;617.98
+Vitorino;PR;Capivari de Baixo;SC;614.82
+Vitorino;PR;Orleans;SC;563.55
+Vitorino;PR;Capinzal;SC;251.31
+Vitorino;PR;Itaiópolis;SC;392.2
+Vitorino;PR;Pinhalzinho;SC;101.5
+Vitorino;PR;Herval d'Oeste;SC;227.63
+Vitorino;PR;Urussanga;SC;583.05
+Vitorino;PR;Jaguaruna;SC;621.57
+Vitorino;PR;Schroeder;SC;494.99
+Vitorino;PR;Presidente Getúlio;SC;475.6
+Vitorino;PR;Ibirama;SC;474.31
+Vitorino;PR;Três Barras;SC;336.89
+Vitorino;PR;Papanduva;SC;362.46
+Vitorino;PR;Seara;SC;153.89
+Vitorino;PR;Garuva;SC;542.84
+Vitorino;PR;Morro da Fumaça;SC;602.64
+Vitorino;PR;Taió;SC;382.85
+Vitorino;PR;Abelardo Luz;SC;71.57
+Vitorino;PR;Otacílio Costa;SC;414.03
+Vitorino;PR;Cocal do Sul;SC;591.95
+Vitorino;PR;Massaranduba;SC;509.76
+Vitorino;PR;Pouso Redondo;SC;415.53
+Vitorino;PR;Ilhota;SC;586.62
+Vitorino;PR;Governador Celso Ramos;SC;651.41
+Vitorino;PR;Itapiranga;SC;204.56
+Vitorino;PR;Balneário Rincão;SC;615.25
+Vitorino;PR;Balneário Arroio do Silva;SC;625.99
+Vitorino;PR;Correia Pinto;SC;392.54
+Vitorino;PR;Balneário Gaivota;SC;617.89
+Vitorino;PR;Palmitos;SC;152.76
+Vitorino;PR;Santa Cecília;SC;319.02
+Vitorino;PR;Corupá;SC;466.39
+Vitorino;PR;Dionísio Cerqueira;SC;105.16
+Vitorino;PR;Balneário Barra do Sul;SC;542.49
+Vitorino;PR;Lauro Müller;SC;550.78
+Vitorino;PR;São José do Cedro;SC;117.25
+Vitorino;PR;Nova Trento;SC;635.47
+Vitorino;PR;Siderópolis;SC;574.82
+Vitorino;PR;Nova Veneza;SC;585.19
+Vitorino;PR;São Ludgero;SC;576.63
+Vitorino;PR;Turvo;SC;585.74
+Vitorino;PR;Passo de Torres;SC;643.84
+Vitorino;PR;Sangão;SC;610.4
+Vitorino;PR;Lontras;SC;461.96
+Vitorino;PR;Canelinha;SC;636.19
+Vitorino;PR;Rodeio;SC;506.23
+Vitorino;PR;Campo Alegre;SC;450.59
+Vitorino;PR;Gravatal;SC;578.57
+Vitorino;PR;Imaruí;SC;681.97
+Vitorino;PR;Luiz Alves;SC;534.31
+Vitorino;PR;Lebon Régis;SC;284.86
+Vitorino;PR;Antônio Carlos;SC;610.17
+Vitorino;PR;Faxinal dos Guedes;SC;123.37
+Vitorino;PR;Quilombo;SC;69.01
+Vitorino;PR;Agrolândia;SC;447.59
+Vitorino;PR;Cunha Porã;SC;119.0
+Vitorino;PR;Rio dos Cedros;SC;532.44
+Vitorino;PR;Urubici;SC;500.95
+Vitorino;PR;Guaraciaba;SC;121.85
+Vitorino;PR;Ponte Serrada;SC;150.13
+Vitorino;PR;Jacinto Machado;SC;593.02
+Vitorino;PR;Catanduvas;SC;201.13
+Vitorino;PR;Benedito Novo;SC;487.75
+Vitorino;PR;Alfredo Wagner;SC;507.47
+Vitorino;PR;Coronel Freitas;SC;95.39
+Vitorino;PR;Irineópolis;SC;280.46
+Vitorino;PR;São Carlos;SC;161.49
+Vitorino;PR;Saudades;SC;112.69
+Vitorino;PR;Irani;SC;181.76
+Vitorino;PR;Pescaria Brava;SC;624.24
+Vitorino;PR;Mondaí;SC;162.62
+Vitorino;PR;Apiúna;SC;491.77
+Vitorino;PR;Santa Rosa do Sul;SC;619.21
+Vitorino;PR;Campo Erê;SC;46.49
+Vitorino;PR;Iporã do Oeste;SC;170.31
+Vitorino;PR;São Domingos;SC;61.99
+Vitorino;PR;Monte Carlo;SC;323.44
+Vitorino;PR;Paulo Lopes;SC;629.55
+Vitorino;PR;Armazém;SC;591.12
+Vitorino;PR;Treze Tílias;SC;233.3
+Vitorino;PR;São José do Cerrito;SC;353.13
+Vitorino;PR;São João do Sul;SC;636.68
+Vitorino;PR;Descanso;SC;147.88
+Vitorino;PR;Guatambu;SC;136.34
+Vitorino;PR;Bom Retiro;SC;482.71
+Vitorino;PR;Ascurra;SC;501.64
+Vitorino;PR;Anita Garibaldi;SC;349.91
+Vitorino;PR;Praia Grande;SC;652.61
+Vitorino;PR;Tangará;SC;265.49
+Vitorino;PR;Santa Terezinha;SC;394.57
+Vitorino;PR;Laurentino;SC;447.93
+Vitorino;PR;Ipumirim;SC;158.36
+Vitorino;PR;Maracajá;SC;619.9
+Vitorino;PR;Rio do Oeste;SC;435.98
+Vitorino;PR;Monte Castelo;SC;363.7
+Vitorino;PR;Ipuaçu;SC;74.82
+Vitorino;PR;Palma Sola;SC;78.3
+Vitorino;PR;Salete;SC;394.39
+Vitorino;PR;Major Vieira;SC;342.03
+Vitorino;PR;Treze de Maio;SC;602.86
+Vitorino;PR;Timbó Grande;SC;292.39
+Vitorino;PR;Trombudo Central;SC;433.86
+Vitorino;PR;Campo Belo do Sul;SC;400.26
+Vitorino;PR;Itá;SC;174.08
+Vitorino;PR;Ouro;SC;250.57
+Vitorino;PR;Meleiro;SC;599.35
+Vitorino;PR;Aurora;SC;460.72
+Vitorino;PR;Águas Mornas;SC;577.17
+Vitorino;PR;Petrolândia;SC;470.56
+Vitorino;PR;Água Doce;SC;222.85
+Vitorino;PR;Rio do Campo;SC;377.72
+Vitorino;PR;Caibi;SC;143.58
+Vitorino;PR;São João do Oeste;SC;189.07
+Vitorino;PR;Grão-Pará;SC;552.47
+Vitorino;PR;Rio das Antas;SC;260.17
+Vitorino;PR;Vidal Ramos;SC;505.72
+Vitorino;PR;São Cristóvão do Sul;SC;359.43
+Vitorino;PR;Agronômica;SC;440.53
+Vitorino;PR;Águas de Chapecó;SC;158.59
+Vitorino;PR;José Boiteux;SC;444.46
+Vitorino;PR;Imbuia;SC;499.57
+Vitorino;PR;Anchieta;SC;93.48
+Vitorino;PR;Bela Vista do Toldo;SC;313.66
+Vitorino;PR;Luzerna;SC;233.59
+Vitorino;PR;São Pedro de Alcântara;SC;599.86
+Vitorino;PR;Piratuba;SC;258.97
+Vitorino;PR;Timbé do Sul;SC;566.11
+Vitorino;PR;Vitor Meireles;SC;430.14
+Vitorino;PR;Botuverá;SC;559.48
+Vitorino;PR;Angelina;SC;566.97
+Vitorino;PR;Nova Erechim;SC;108.35
+Vitorino;PR;Tunápolis;SC;172.67
+Vitorino;PR;Erval Velho;SC;243.24
+Vitorino;PR;Rio Fortuna;SC;585.78
+Vitorino;PR;Guarujá do Sul;SC;106.81
+Vitorino;PR;Romelândia;SC;110.99
+Vitorino;PR;Cordilheira Alta;SC;114.07
+Vitorino;PR;Riqueza;SC;152.48
+Vitorino;PR;Caxambu do Sul;SC;148.22
+Vitorino;PR;Ipira;SC;256.5
+Vitorino;PR;Vargem Bonita;SC;188.2
+Vitorino;PR;Lindóia do Sul;SC;166.9
+Vitorino;PR;Nova Itaberaba;SC;131.16
+Vitorino;PR;São João do Itaperiú;SC;531.64
+Vitorino;PR;Ponte Alta;SC;379.34
+Vitorino;PR;Salto Veloso;SC;218.56
+Vitorino;PR;Arabutã;SC;183.96
+Vitorino;PR;Jaborá;SC;219.47
+Vitorino;PR;Paraíso;SC;155.46
+Vitorino;PR;Witmarsum;SC;419.08
+Vitorino;PR;Pedras Grandes;SC;581.23
+Vitorino;PR;Dona Emma;SC;428.49
+Vitorino;PR;Modelo;SC;95.67
+Vitorino;PR;Passos Maia;SC;157.16
+Vitorino;PR;Bom Jardim da Serra;SC;516.59
+Vitorino;PR;Braço do Trombudo;SC;433.89
+Vitorino;PR;Iraceminha;SC;142.2
+Vitorino;PR;Zortéa;SC;266.43
+Vitorino;PR;Treviso;SC;561.99
+Vitorino;PR;Xavantina;SC;138.39
+Vitorino;PR;Doutor Pedrinho;SC;466.38
+Vitorino;PR;Vargeão;SC;134.55
+Vitorino;PR;Saltinho;SC;73.4
+Vitorino;PR;Anitápolis;SC;587.68
+Vitorino;PR;Arroio Trinta;SC;229.71
+Vitorino;PR;Bocaina do Sul;SC;430.72
+Vitorino;PR;Pinheiro Preto;SC;255.87
+Vitorino;PR;Calmon;SC;237.69
+Vitorino;PR;São Martinho;SC;605.39
+Vitorino;PR;Entre Rios;SC;97.87
+Vitorino;PR;Leoberto Leal;SC;518.44
+Vitorino;PR;Cerro Negro;SC;381.94
+Vitorino;PR;Serra Alta;SC;93.84
+Vitorino;PR;Rancho Queimado;SC;552.12
+Vitorino;PR;Ibicaré;SC;247.47
+Vitorino;PR;Atalanta;SC;453.68
+Vitorino;PR;Major Gercino;SC;593.5
+Vitorino;PR;Galvão;SC;39.59
+Vitorino;PR;Ponte Alta do Norte;SC;345.47
+Vitorino;PR;Bandeirante;SC;149.91
+Vitorino;PR;Morro Grande;SC;582.11
+Vitorino;PR;Peritiba;SC;236.36
+Vitorino;PR;Princesa;SC;126.03
+Vitorino;PR;Chapadão do Lageado;SC;501.11
+Vitorino;PR;Planalto Alegre;SC;144.32
+Vitorino;PR;São Bonifácio;SC;589.14
+Vitorino;PR;Iomerê;SC;248.98
+Vitorino;PR;Águas Frias;SC;102.94
+Vitorino;PR;Sul Brasil;SC;505.76
+Vitorino;PR;Celso Ramos;SC;323.42
+Vitorino;PR;Bom Jesus;SC;89.31
+Vitorino;PR;União do Oeste;SC;83.02
+Vitorino;PR;Matos Costa;SC;220.06
+Vitorino;PR;São Bernardino;SC;39.77
+Vitorino;PR;Formosa do Sul;SC;52.93
+Vitorino;PR;Belmonte;SC;154.34
+Vitorino;PR;Urupema;SC;449.1
+Vitorino;PR;Novo Horizonte;SC;25.85
+Vitorino;PR;Vargem;SC;300.88
+Vitorino;PR;Capão Alto;SC;413.11
+Vitorino;PR;Abdon Batista;SC;349.63
+Vitorino;PR;Santa Terezinha do Progresso;SC;87.17
+Vitorino;PR;Palmeira;SC;422.31
+Vitorino;PR;Jupiá;SC;30.35
+Vitorino;PR;Mirim Doce;SC;412.42
+Vitorino;PR;Arvoredo;SC;143.69
+Vitorino;PR;Brunópolis;SC;311.98
+Vitorino;PR;Santa Helena;SC;167.57
+Vitorino;PR;Frei Rogério;SC;321.08
+Vitorino;PR;Rio Rufino;SC;459.73
+Vitorino;PR;Tigrinhos;SC;94.57
+Vitorino;PR;Presidente Nereu;SC;491.27
+Vitorino;PR;Ermo;SC;593.88
+Vitorino;PR;Lacerdópolis;SC;238.38
+Vitorino;PR;Painel;SC;423.03
+Vitorino;PR;Bom Jesus do Oeste;SC;88.95
+Vitorino;PR;Marema;SC;94.75
+Vitorino;PR;Ouro Verde;SC;100.38
+Vitorino;PR;Santa Rosa de Lima;SC;609.26
+Vitorino;PR;Irati;SC;66.01
+Vitorino;PR;Coronel Martins;SC;52.27
+Vitorino;PR;Ibiam;SC;279.13
+Vitorino;PR;Cunhataí;SC;125.93
+Vitorino;PR;Paial;SC;153.68
+Vitorino;PR;Alto Bela Vista;SC;246.67
+Vitorino;PR;Flor do Sertão;SC;126.24
+Vitorino;PR;São Miguel da Boa Vista;SC;119.94
+Vitorino;PR;Macieira;SC;233.28
+Vitorino;PR;Jardinópolis;SC;77.58
+Vitorino;PR;Lajeado Grande;SC;106.03
+Vitorino;PR;Presidente Castello Branco;SC;225.19
+Vitorino;PR;Barra Bonita;SC;136.59
+Vitorino;PR;Santiago do Sul;SC;82.64

@@ -1,0 +1,694 @@
+Cidade 1;Estado 1;Cidade 2;Estado 2;Distância (km)
+Guaraniaçu;PR;Curitiba;PR;428.63
+Guaraniaçu;PR;Londrina;PR;430.39
+Guaraniaçu;PR;Maringá;PR;331.16
+Guaraniaçu;PR;Ponta Grossa;PR;334.84
+Guaraniaçu;PR;Cascavel;PR;78.41
+Guaraniaçu;PR;São José dos Pinhais;PR;445.76
+Guaraniaçu;PR;Foz do Iguaçu;PR;209.6
+Guaraniaçu;PR;Colombo;PR;444.16
+Guaraniaçu;PR;Guarapuava;PR;177.0
+Guaraniaçu;PR;Araucária;PR;420.51
+Guaraniaçu;PR;Toledo;PR;113.8
+Guaraniaçu;PR;Fazenda Rio Grande;PR;445.11
+Guaraniaçu;PR;Paranaguá;PR;525.69
+Guaraniaçu;PR;Campo Largo;PR;398.34
+Guaraniaçu;PR;Apucarana;PR;387.84
+Guaraniaçu;PR;Pinhais;PR;435.84
+Guaraniaçu;PR;Almirante Tamandaré;PR;438.0
+Guaraniaçu;PR;Arapongas;PR;391.41
+Guaraniaçu;PR;Piraquara;PR;463.97
+Guaraniaçu;PR;Sarandi;PR;338.05
+Guaraniaçu;PR;Umuarama;PR;238.52
+Guaraniaçu;PR;Cambé;PR;416.77
+Guaraniaçu;PR;Campo Mourão;PR;234.38
+Guaraniaçu;PR;Francisco Beltrão;PR;202.12
+Guaraniaçu;PR;Paranavaí;PR;368.05
+Guaraniaçu;PR;Pato Branco;PR;195.36
+Guaraniaçu;PR;Cianorte;PR;279.17
+Guaraniaçu;PR;Telêmaco Borba;PR;432.07
+Guaraniaçu;PR;Castro;PR;369.16
+Guaraniaçu;PR;Rolândia;PR;409.86
+Guaraniaçu;PR;Irati;PR;277.9
+Guaraniaçu;PR;União da Vitória;PR;342.73
+Guaraniaçu;PR;Marechal Cândido Rondon;PR;154.26
+Guaraniaçu;PR;Ibiporã;PR;441.01
+Guaraniaçu;PR;Prudentópolis;PR;238.78
+Guaraniaçu;PR;Palmas;PR;259.78
+Guaraniaçu;PR;Campina Grande do Sul;PR;457.55
+Guaraniaçu;PR;Medianeira;PR;151.65
+Guaraniaçu;PR;Santo Antônio da Platina;PR;558.86
+Guaraniaçu;PR;Paiçandu;PR;331.76
+Guaraniaçu;PR;Cornélio Procópio;PR;492.23
+Guaraniaçu;PR;Lapa;PR;402.7
+Guaraniaçu;PR;Dois Vizinhos;PR;155.93
+Guaraniaçu;PR;São Mateus do Sul;PR;334.55
+Guaraniaçu;PR;Guaratuba;PR;555.74
+Guaraniaçu;PR;Jacarezinho;PR;580.17
+Guaraniaçu;PR;Marialva;PR;347.2
+Guaraniaçu;PR;Matinhos;PR;545.63
+Guaraniaçu;PR;Rio Branco do Sul;PR;452.77
+Guaraniaçu;PR;Assis Chateaubriand;PR;152.35
+Guaraniaçu;PR;Mandaguari;PR;362.82
+Guaraniaçu;PR;Jaguariaíva;PR;446.35
+Guaraniaçu;PR;Palotina;PR;167.09
+Guaraniaçu;PR;Palmeira;PR;349.01
+Guaraniaçu;PR;Pitanga;PR;215.35
+Guaraniaçu;PR;Ivaiporã;PR;286.84
+Guaraniaçu;PR;Laranjeiras do Sul;PR;67.64
+Guaraniaçu;PR;Guaíra;PR;214.78
+Guaraniaçu;PR;Mandaguaçu;PR;344.41
+Guaraniaçu;PR;Rio Negro;PR;432.23
+Guaraniaçu;PR;Bandeirantes;PR;528.36
+Guaraniaçu;PR;Itaperuçu;PR;452.3
+Guaraniaçu;PR;Quedas do Iguaçu;PR;86.63
+Guaraniaçu;PR;Pontal do Paraná;PR;535.96
+Guaraniaçu;PR;Imbituva;PR;282.5
+Guaraniaçu;PR;Campo Magro;PR;424.48
+Guaraniaçu;PR;Pinhão;PR;182.38
+Guaraniaçu;PR;São Miguel do Iguaçu;PR;167.67
+Guaraniaçu;PR;Ibaiti;PR;491.71
+Guaraniaçu;PR;Goioerê;PR;178.57
+Guaraniaçu;PR;Mandirituba;PR;458.26
+Guaraniaçu;PR;Nova Esperança;PR;365.63
+Guaraniaçu;PR;Arapoti;PR;461.62
+Guaraniaçu;PR;Santa Helena;PR;183.21
+Guaraniaçu;PR;Astorga;PR;384.0
+Guaraniaçu;PR;Ubiratã;PR;141.27
+Guaraniaçu;PR;Reserva;PR;361.73
+Guaraniaçu;PR;Santa Terezinha de Itaipu;PR;187.82
+Guaraniaçu;PR;Ortigueira;PR;422.46
+Guaraniaçu;PR;Quatro Barras;PR;460.2
+Guaraniaçu;PR;Cruzeiro do Oeste;PR;227.48
+Guaraniaçu;PR;Santo Antônio do Sudoeste;PR;226.53
+Guaraniaçu;PR;Piraí do Sul;PR;400.94
+Guaraniaçu;PR;Coronel Vivida;PR;160.96
+Guaraniaçu;PR;Carambeí;PR;349.27
+Guaraniaçu;PR;Loanda;PR;346.5
+Guaraniaçu;PR;Cambará;PR;562.29
+Guaraniaçu;PR;Colorado;PR;418.71
+Guaraniaçu;PR;Siqueira Campos;PR;524.48
+Guaraniaçu;PR;Jandaia do Sul;PR;365.23
+Guaraniaçu;PR;Chopinzinho;PR;141.88
+Guaraniaçu;PR;Capanema;PR;183.26
+Guaraniaçu;PR;Tibagi;PR;397.02
+Guaraniaçu;PR;Andirá;PR;543.62
+Guaraniaçu;PR;Ampére;PR;190.8
+Guaraniaçu;PR;Realeza;PR;170.19
+Guaraniaçu;PR;Wenceslau Braz;PR;497.05
+Guaraniaçu;PR;Contenda;PR;425.63
+Guaraniaçu;PR;Cafelândia;PR;113.39
+Guaraniaçu;PR;Altônia;PR;232.98
+Guaraniaçu;PR;Matelândia;PR;137.99
+Guaraniaçu;PR;Quitandinha;PR;455.65
+Guaraniaçu;PR;Morretes;PR;504.06
+Guaraniaçu;PR;Terra Roxa;PR;196.62
+Guaraniaçu;PR;Antonina;PR;518.38
+Guaraniaçu;PR;Tijucas do Sul;PR;488.34
+Guaraniaçu;PR;Terra Boa;PR;291.63
+Guaraniaçu;PR;Corbélia;PR;87.91
+Guaraniaçu;PR;Sengés;PR;483.47
+Guaraniaçu;PR;Mangueirinha;PR;191.8
+Guaraniaçu;PR;Faxinal;PR;349.15
+Guaraniaçu;PR;Cerro Azul;PR;508.28
+Guaraniaçu;PR;Cruz Machado;PR;260.88
+Guaraniaçu;PR;Sertanópolis;PR;460.97
+Guaraniaçu;PR;Marmeleiro;PR;209.95
+Guaraniaçu;PR;Tapejara;PR;246.55
+Guaraniaçu;PR;Bituruna;PR;262.3
+Guaraniaçu;PR;Cândido de Abreu;PR;289.66
+Guaraniaçu;PR;Salto do Lontra;PR;132.36
+Guaraniaçu;PR;Clevelândia;PR;245.08
+Guaraniaçu;PR;Candói;PR;137.49
+Guaraniaçu;PR;Terra Rica;PR;397.8
+Guaraniaçu;PR;Bela Vista do Paraíso;PR;457.83
+Guaraniaçu;PR;Capitão Leônidas Marques;PR;135.99
+Guaraniaçu;PR;Rebouças;PR;295.26
+Guaraniaçu;PR;Ipiranga;PR;325.31
+Guaraniaçu;PR;Santa Izabel do Oeste;PR;179.49
+Guaraniaçu;PR;Rio Azul;PR;281.39
+Guaraniaçu;PR;Alto Paraná;PR;380.63
+Guaraniaçu;PR;Assaí;PR;472.58
+Guaraniaçu;PR;São João do Triunfo;PR;344.85
+Guaraniaçu;PR;Curiúva;PR;478.76
+Guaraniaçu;PR;Tamarana;PR;395.18
+Guaraniaçu;PR;Carlópolis;PR;579.82
+Guaraniaçu;PR;Paraíso do Norte;PR;337.61
+Guaraniaçu;PR;Ivaí;PR;285.65
+Guaraniaçu;PR;Araruna;PR;256.53
+Guaraniaçu;PR;Peabirú;PR;257.57
+Guaraniaçu;PR;Engenheiro Beltrão;PR;274.28
+Guaraniaçu;PR;Campina da Lagoa;PR;77.21
+Guaraniaçu;PR;Jaguapitã;PR;404.36
+Guaraniaçu;PR;Mallet;PR;299.88
+Guaraniaçu;PR;General Carneiro;PR;317.53
+Guaraniaçu;PR;Iporã;PR;209.28
+Guaraniaçu;PR;Manoel Ribas;PR;250.89
+Guaraniaçu;PR;Imbaú;PR;409.28
+Guaraniaçu;PR;Planalto;PR;191.66
+Guaraniaçu;PR;Cantagalo;PR;97.02
+Guaraniaçu;PR;Bocaiuva do Sul;PR;466.03
+Guaraniaçu;PR;Rio Bonito do Iguaçu;PR;83.29
+Guaraniaçu;PR;Balsa Nova;PR;409.96
+Guaraniaçu;PR;Nova Londrina;PR;375.72
+Guaraniaçu;PR;Piên;PR;502.77
+Guaraniaçu;PR;Turvo;PR;213.26
+Guaraniaçu;PR;Cidade Gaúcha;PR;288.33
+Guaraniaçu;PR;Mamborê;PR;201.69
+Guaraniaçu;PR;Ribeirão do Pinhal;PR;547.64
+Guaraniaçu;PR;Teixeira Soares;PR;300.24
+Guaraniaçu;PR;Palmital;PR;143.38
+Guaraniaçu;PR;Jataizinho;PR;451.82
+Guaraniaçu;PR;Porecatu;PR;454.85
+Guaraniaçu;PR;Querência do Norte;PR;371.56
+Guaraniaçu;PR;Santa Fé;PR;382.82
+Guaraniaçu;PR;Itapejara d'Oeste;PR;169.93
+Guaraniaçu;PR;Ventania;PR;440.44
+Guaraniaçu;PR;Moreira Sales;PR;199.56
+Guaraniaçu;PR;Três Barras do Paraná;PR;79.06
+Guaraniaçu;PR;Joaquim Távora;PR;555.46
+Guaraniaçu;PR;Céu Azul;PR;117.84
+Guaraniaçu;PR;Santa Mariana;PR;508.5
+Guaraniaçu;PR;Paranacity;PR;397.5
+Guaraniaçu;PR;Nova Laranjeiras;PR;48.41
+Guaraniaçu;PR;Alvorada do Sul;PR;483.35
+Guaraniaçu;PR;Barbosa Ferraz;PR;295.98
+Guaraniaçu;PR;Itaipulândia;PR;181.53
+Guaraniaçu;PR;Pérola;PR;241.06
+Guaraniaçu;PR;Uraí;PR;482.1
+Guaraniaçu;PR;Jardim Alegre;PR;291.06
+Guaraniaçu;PR;Primeiro de Maio;PR;485.43
+Guaraniaçu;PR;São Jerônimo da Serra;PR;519.44
+Guaraniaçu;PR;Inácio Martins;PR;233.7
+Guaraniaçu;PR;São Pedro do Ivaí;PR;350.3
+Guaraniaçu;PR;Mauá da Serra;PR;370.49
+Guaraniaçu;PR;Centenário do Sul;PR;426.32
+Guaraniaçu;PR;Missal;PR;179.75
+Guaraniaçu;PR;Ribeirão Claro;PR;613.1
+Guaraniaçu;PR;Nova Prata do Iguaçu;PR;112.85
+Guaraniaçu;PR;Florestópolis;PR;441.37
+Guaraniaçu;PR;Mariluz;PR;208.23
+Guaraniaçu;PR;Barracão;PR;252.12
+Guaraniaçu;PR;Nova Aurora;PR;125.72
+Guaraniaçu;PR;São João;PR;143.31
+Guaraniaçu;PR;Catanduvas;PR;43.28
+Guaraniaçu;PR;Iretama;PR;176.43
+Guaraniaçu;PR;Santa Tereza do Oeste;PR;90.53
+Guaraniaçu;PR;São João do Ivaí;PR;328.66
+Guaraniaçu;PR;Alto Piquiri;PR;204.17
+Guaraniaçu;PR;Roncador;PR;144.5
+Guaraniaçu;PR;Rondon;PR;313.44
+Guaraniaçu;PR;Japurá;PR;301.99
+Guaraniaçu;PR;Agudos do Sul;PR;485.8
+Guaraniaçu;PR;Santa Maria do Oeste;PR;183.78
+Guaraniaçu;PR;São Jorge d'Oeste;PR;132.87
+Guaraniaçu;PR;Tunas do Paraná;PR;504.6
+Guaraniaçu;PR;Douradina;PR;293.29
+Guaraniaçu;PR;São Sebastião da Amoreira;PR;490.31
+Guaraniaçu;PR;Congonhinhas;PR;522.5
+Guaraniaçu;PR;Marilândia do Sul;PR;395.64
+Guaraniaçu;PR;Guamiranga;PR;256.53
+Guaraniaçu;PR;Califórnia;PR;406.02
+Guaraniaçu;PR;Tuneiras do Oeste;PR;227.37
+Guaraniaçu;PR;Santa Isabel do Ivaí;PR;329.45
+Guaraniaçu;PR;Vera Cruz do Oeste;PR;123.31
+Guaraniaçu;PR;Jesuítas;PR;150.25
+Guaraniaçu;PR;Nova Santa Rosa;PR;151.07
+Guaraniaçu;PR;Ivaté;PR;285.96
+Guaraniaçu;PR;Nova Fátima;PR;523.0
+Guaraniaçu;PR;Tupãssi;PR;114.39
+Guaraniaçu;PR;Reserva do Iguaçu;PR;178.31
+Guaraniaçu;PR;Campo do Tenente;PR;430.79
+Guaraniaçu;PR;Cambira;PR;374.03
+Guaraniaçu;PR;Tomazina;PR;515.83
+Guaraniaçu;PR;Icaraíma;PR;302.48
+Guaraniaçu;PR;Santa Cruz de Monte Castelo;PR;344.41
+Guaraniaçu;PR;Figueira;PR;501.07
+Guaraniaçu;PR;Guaraqueçaba;PR;607.12
+Guaraniaçu;PR;Boa Vista da Aparecida;PR;104.89
+Guaraniaçu;PR;Coronel Domingos Soares;PR;242.26
+Guaraniaçu;PR;Quatiguá;PR;544.22
+Guaraniaçu;PR;Antônio Olinto;PR;364.84
+Guaraniaçu;PR;Abatiá;PR;550.24
+Guaraniaçu;PR;Paulo Frontin;PR;320.04
+Guaraniaçu;PR;Juranda;PR;165.69
+Guaraniaçu;PR;Luiziana;PR;261.18
+Guaraniaçu;PR;Bom Sucesso;PR;344.58
+Guaraniaçu;PR;Verê;PR;169.52
+Guaraniaçu;PR;Marilena;PR;379.71
+Guaraniaçu;PR;Goioxim;PR;128.86
+Guaraniaçu;PR;Jussara;PR;293.64
+Guaraniaçu;PR;São Carlos do Ivaí;PR;324.3
+Guaraniaçu;PR;Sabáudia;PR;398.01
+Guaraniaçu;PR;Vitorino;PR;208.49
+Guaraniaçu;PR;Floresta;PR;304.28
+Guaraniaçu;PR;Renascença;PR;204.1
+Guaraniaçu;PR;Sapopema;PR;498.75
+Guaraniaçu;PR;Mariópolis;PR;222.56
+Guaraniaçu;PR;Guairaçá;PR;371.99
+Guaraniaçu;PR;Itambaracá;PR;540.1
+Guaraniaçu;PR;Amaporã;PR;354.27
+Guaraniaçu;PR;Ibema;PR;17.77
+Guaraniaçu;PR;Formosa do Oeste;PR;164.0
+Guaraniaçu;PR;Boa Ventura de São Roque;PR;236.19
+Guaraniaçu;PR;Pinhalão;PR;510.49
+Guaraniaçu;PR;Borrazópolis;PR;325.32
+Guaraniaçu;PR;Pérola d'Oeste;PR;194.17
+Guaraniaçu;PR;Perobal;PR;219.37
+Guaraniaçu;PR;São José da Boa Vista;PR;511.8
+Guaraniaçu;PR;Itambé;PR;316.01
+Guaraniaçu;PR;Ouro Verde do Oeste;PR;129.44
+Guaraniaçu;PR;Doutor Camargo;PR;334.16
+Guaraniaçu;PR;Francisco Alves;PR;192.4
+Guaraniaçu;PR;Paula Freitas;PR;359.19
+Guaraniaçu;PR;Enéas Marques;PR;192.61
+Guaraniaçu;PR;Nova Olímpia;PR;267.49
+Guaraniaçu;PR;São João do Caiuá;PR;418.6
+Guaraniaçu;PR;Adrianópolis;PR;558.86
+Guaraniaçu;PR;São Tomé;PR;293.8
+Guaraniaçu;PR;Pato Bragado;PR;174.2
+Guaraniaçu;PR;São Pedro do Iguaçu;PR;136.32
+Guaraniaçu;PR;Laranjal;PR;164.78
+Guaraniaçu;PR;Mercedes;PR;170.67
+Guaraniaçu;PR;Maria Helena;PR;260.14
+Guaraniaçu;PR;Xambrê;PR;255.75
+Guaraniaçu;PR;Saudade do Iguaçu;PR;116.72
+Guaraniaçu;PR;Maripá;PR;148.62
+Guaraniaçu;PR;Fernandes Pinheiro;PR;289.32
+Guaraniaçu;PR;Guaraci;PR;406.91
+Guaraniaçu;PR;São Jorge do Ivaí;PR;339.01
+Guaraniaçu;PR;São Jorge do Patrocínio;PR;246.87
+Guaraniaçu;PR;Doutor Ulysses;PR;510.13
+Guaraniaçu;PR;Tapira;PR;285.56
+Guaraniaçu;PR;Santo Inácio;PR;425.06
+Guaraniaçu;PR;Presidente Castelo Branco;PR;355.56
+Guaraniaçu;PR;Grandes Rios;PR;363.54
+Guaraniaçu;PR;Braganey;PR;54.03
+Guaraniaçu;PR;Jaboti;PR;512.45
+Guaraniaçu;PR;Diamante D'Oeste;PR;150.78
+Guaraniaçu;PR;Nova Tebas;PR;261.73
+Guaraniaçu;PR;Tamboara;PR;352.3
+Guaraniaçu;PR;Sertaneja;PR;497.29
+Guaraniaçu;PR;Pranchita;PR;219.4
+Guaraniaçu;PR;Honório Serpa;PR;190.66
+Guaraniaçu;PR;Nova Esperança do Sudoeste;PR;149.18
+Guaraniaçu;PR;Diamante do Norte;PR;399.6
+Guaraniaçu;PR;Lupionópolis;PR;430.4
+Guaraniaçu;PR;Janiópolis;PR;205.73
+Guaraniaçu;PR;Japira;PR;500.41
+Guaraniaçu;PR;Santana do Itararé;PR;525.6
+Guaraniaçu;PR;Porto Amazonas;PR;366.87
+Guaraniaçu;PR;Floraí;PR;367.6
+Guaraniaçu;PR;Salto do Itararé;PR;551.18
+Guaraniaçu;PR;Lobato;PR;399.15
+Guaraniaçu;PR;ova Cantu;PR;106.03
+Guaraniaçu;PR;Fênix;PR;308.48
+Guaraniaçu;PR;Lunardelli;PR;304.79
+Guaraniaçu;PR;Marumbi;PR;363.1
+Guaraniaçu;PR;Entre Rios do Oeste;PR;183.39
+Guaraniaçu;PR;Rosário do Ivaí;PR;354.75
+Guaraniaçu;PR;Flor da Serra do Sul;PR;244.94
+Guaraniaçu;PR;Ramilândia;PR;144.24
+Guaraniaçu;PR;Lindoeste;PR;112.95
+Guaraniaçu;PR;Iguaraçu;PR;365.0
+Guaraniaçu;PR;Indianópolis;PR;302.43
+Guaraniaçu;PR;Foz do Jordão;PR;160.58
+Guaraniaçu;PR;Serranópolis do Iguaçu;PR;163.47
+Guaraniaçu;PR;Quinta do Sol;PR;287.68
+Guaraniaçu;PR;Cruzeiro do Sul;PR;393.88
+Guaraniaçu;PR;Itaguajé;PR;443.23
+Guaraniaçu;PR;Quarto Centenário;PR;163.76
+Guaraniaçu;PR;Nova Santa Bárbara;PR;503.55
+Guaraniaçu;PR;Marquinho;PR;106.92
+Guaraniaçu;PR;Planaltina do Paraná;PR;338.84
+Guaraniaçu;PR;Cruzeiro do Iguaçu;PR;123.94
+Guaraniaçu;PR;Rio Branco do Ivaí;PR;317.94
+Guaraniaçu;PR;Porto Vitória;PR;351.63
+Guaraniaçu;PR;Santa Mônica;PR;310.83
+Guaraniaçu;PR;Virmond;PR;88.72
+Guaraniaçu;PR;Quatro Pontes;PR;144.72
+Guaraniaçu;PR;Munhoz de Melo;PR;376.89
+Guaraniaçu;PR;Nossa Senhora das Graças;PR;400.31
+Guaraniaçu;PR;Kaloré;PR;341.93
+Guaraniaçu;PR;Boa Esperança;PR;191.96
+Guaraniaçu;PR;Espigão Alto do Iguaçu;PR;78.23
+Guaraniaçu;PR;Cafezal do Sul;PR;218.79
+Guaraniaçu;PR;Leópolis;PR;505.98
+Guaraniaçu;PR;Conselheiro Mairinck;PR;520.26
+Guaraniaçu;PR;Atalaia;PR;376.5
+Guaraniaçu;PR;Campina do Simão;PR;193.46
+Guaraniaçu;PR;Prado Ferreira;PR;419.73
+Guaraniaçu;PR;Santa Lúcia;PR;139.27
+Guaraniaçu;PR;Guapirama;PR;541.34
+Guaraniaçu;PR;Rancho Alegre;PR;494.81
+Guaraniaçu;PR;Campo Bonito;PR;19.99
+Guaraniaçu;PR;São José das Palmeiras;PR;154.47
+Guaraniaçu;PR;Bom Jesus do Sul;PR;250.61
+Guaraniaçu;PR;Nova América da Colina;PR;493.54
+Guaraniaçu;PR;Ourizona;PR;350.44
+Guaraniaçu;PR;Diamante do Sul;PR;29.13
+Guaraniaçu;PR;Bela Vista da Caroba;PR;195.06
+Guaraniaçu;PR;Salgado Filho;PR;239.33
+Guaraniaçu;PR;Ivatuba;PR;326.39
+Guaraniaçu;PR;Pitangueiras;PR;399.03
+Guaraniaçu;PR;Paranapoema;PR;431.93
+Guaraniaçu;PR;Santa Cecília do Pavão;PR;494.77
+Guaraniaçu;PR;undiaí do Sul;PR;563.13
+Guaraniaçu;PR;Bom Sucesso do Sul;PR;181.54
+Guaraniaçu;PR;Santa Amélia;PR;555.77
+Guaraniaçu;PR;Rio Bom;PR;374.57
+Guaraniaçu;PR;Lidianópolis;PR;301.08
+Guaraniaçu;PR;Mato Rico;PR;166.16
+Guaraniaçu;PR;Porto Barreiro;PR;86.68
+Guaraniaçu;PR;Inajá;PR;418.63
+Guaraniaçu;PR;Corumbataí do Sul;PR;280.18
+Guaraniaçu;PR;Farol;PR;224.16
+Guaraniaçu;PR;Cafeara;PR;421.38
+Guaraniaçu;PR;Arapuã;PR;283.44
+Guaraniaçu;PR;Ângulo;PR;369.92
+Guaraniaçu;PR;Cruzmaltina;PR;333.93
+Guaraniaçu;PR;Sulina;PR;137.95
+Guaraniaçu;PR;Godoy Moreira;PR;361.45
+Guaraniaçu;PR;Novo Itacolomi;PR;359.72
+Guaraniaçu;PR;Barra do Jacaré;PR;554.33
+Guaraniaçu;PR;Anahy;PR;118.53
+Guaraniaçu;PR;Pinhal de São Bento;PR;207.95
+Guaraniaçu;PR;Flórida;PR;389.97
+Guaraniaçu;PR;Itaúna do Sul;PR;389.45
+Guaraniaçu;PR;Alto Paraíso;PR;283.59
+Guaraniaçu;PR;Uniflor;PR;379.45
+Guaraniaçu;PR;Santo Antônio do Caiuá;PR;432.5
+Guaraniaçu;PR;Rancho Alegre D'Oeste;PR;184.16
+Guaraniaçu;PR;Porto Rico;PR;361.72
+Guaraniaçu;PR;Brasilândia do Sul;PR;175.71
+Guaraniaçu;PR;Manfrinópolis;PR;228.66
+Guaraniaçu;PR;Boa Esperança do Iguaçu;PR;137.29
+Guaraniaçu;PR;São Pedro do Paraná;PR;360.14
+Guaraniaçu;PR;Iguatu;PR;71.7
+Guaraniaçu;PR;Guaporema;PR;325.04
+Guaraniaçu;PR;Iracema do Oeste;PR;141.81
+Guaraniaçu;PR;Mirador;PR;353.81
+Guaraniaçu;PR;São Manoel do Paraná;PR;314.12
+Guaraniaçu;PR;Santo Antônio do Paraíso;PR;504.7
+Guaraniaçu;PR;Ariranha do Ivaí;PR;278.93
+Guaraniaçu;PR;Miraselva;PR;431.53
+Guaraniaçu;PR;Esperança Nova;PR;260.86
+Guaraniaçu;PR;Santa Inês;PR;439.0
+Guaraniaçu;PR;Altamira do Paraná;PR;95.5
+Guaraniaçu;PR;Jardim Olinda;PR;444.43
+Guaraniaçu;PR;Nova Aliança do Ivaí;PR;349.35
+Guaraniaçu;PR;Joinville;SC;555.55
+Guaraniaçu;PR;Florianópolis;SC;732.67
+Guaraniaçu;PR;Blumenau;SC;673.58
+Guaraniaçu;PR;São José;SC;720.79
+Guaraniaçu;PR;Itajaí;SC;637.2
+Guaraniaçu;PR;Chapecó;SC;328.79
+Guaraniaçu;PR;Palhoça;SC;727.79
+Guaraniaçu;PR;Criciúma;SC;777.97
+Guaraniaçu;PR;Jaraguá do Sul;SC;528.86
+Guaraniaçu;PR;Lages;SC;584.66
+Guaraniaçu;PR;Brusque;SC;667.31
+Guaraniaçu;PR;Balneário Camboriú;SC;648.37
+Guaraniaçu;PR;Tubarão;SC;847.4
+Guaraniaçu;PR;Camboriú;SC;648.98
+Guaraniaçu;PR;Navegantes;SC;633.49
+Guaraniaçu;PR;São Bento do Sul;SC;483.82
+Guaraniaçu;PR;Concórdia;SC;428.76
+Guaraniaçu;PR;Biguaçu;SC;707.89
+Guaraniaçu;PR;Itapema;SC;660.45
+Guaraniaçu;PR;Caçador;SC;402.39
+Guaraniaçu;PR;Rio do Sul;SC;603.69
+Guaraniaçu;PR;Gaspar;SC;653.9
+Guaraniaçu;PR;Araranguá;SC;923.5
+Guaraniaçu;PR;Indaial;SC;566.8
+Guaraniaçu;PR;Içara;SC;897.29
+Guaraniaçu;PR;Videira;SC;413.72
+Guaraniaçu;PR;Mafra;SC;427.46
+Guaraniaçu;PR;Canoinhas;SC;379.47
+Guaraniaçu;PR;São Francisco do Sul;SC;602.11
+Guaraniaçu;PR;Imbituba;SC;801.01
+Guaraniaçu;PR;Xanxerê;SC;337.49
+Guaraniaçu;PR;Tijucas;SC;677.07
+Guaraniaçu;PR;Guaramirim;SC;578.47
+Guaraniaçu;PR;Timbó;SC;557.73
+Guaraniaçu;PR;Barra Velha;SC;599.82
+Guaraniaçu;PR;Araquari;SC;581.98
+Guaraniaçu;PR;São Miguel do Oeste;SC;318.6
+Guaraniaçu;PR;Laguna;SC;831.76
+Guaraniaçu;PR;Curitibanos;SC;493.72
+Guaraniaçu;PR;Rio Negrinho;SC;466.09
+Guaraniaçu;PR;Campos Novos;SC;471.89
+Guaraniaçu;PR;Pomerode;SC;559.78
+Guaraniaçu;PR;Braço do Norte;SC;755.75
+Guaraniaçu;PR;Penha;SC;622.4
+Guaraniaçu;PR;Fraiburgo;SC;450.57
+Guaraniaçu;PR;Porto União;SC;345.35
+Guaraniaçu;PR;São João Batista;SC;690.9
+Guaraniaçu;PR;Xaxim;SC;355.17
+Guaraniaçu;PR;Forquilhinha;SC;922.63
+Guaraniaçu;PR;Itapoá;SC;560.19
+Guaraniaçu;PR;Joaçaba;SC;406.87
+Guaraniaçu;PR;Sombrio;SC;949.02
+Guaraniaçu;PR;Garopaba;SC;782.19
+Guaraniaçu;PR;Maravilha;SC;297.99
+Guaraniaçu;PR;Porto Belo;SC;672.2
+Guaraniaçu;PR;Santo Amaro da Imperatriz;SC;740.36
+Guaraniaçu;PR;Balneário Piçarras;SC;615.36
+Guaraniaçu;PR;Ituporanga;SC;628.47
+Guaraniaçu;PR;São Joaquim;SC;664.46
+Guaraniaçu;PR;Bombinhas;SC;681.51
+Guaraniaçu;PR;São Lourenço do Oeste;SC;222.37
+Guaraniaçu;PR;Guabiruba;SC;673.73
+Guaraniaçu;PR;Capivari de Baixo;SC;841.98
+Guaraniaçu;PR;Orleans;SC;754.14
+Guaraniaçu;PR;Capinzal;SC;440.45
+Guaraniaçu;PR;Itaiópolis;SC;436.4
+Guaraniaçu;PR;Pinhalzinho;SC;312.0
+Guaraniaçu;PR;Herval d'Oeste;SC;405.48
+Guaraniaçu;PR;Urussanga;SC;773.64
+Guaraniaçu;PR;Jaguaruna;SC;867.3
+Guaraniaçu;PR;Schroeder;SC;582.39
+Guaraniaçu;PR;Presidente Getúlio;SC;567.64
+Guaraniaçu;PR;Ibirama;SC;628.67
+Guaraniaçu;PR;Três Barras;SC;367.08
+Guaraniaçu;PR;Papanduva;SC;427.98
+Guaraniaçu;PR;Seara;SC;385.3
+Guaraniaçu;PR;Garuva;SC;519.15
+Guaraniaçu;PR;Morro da Fumaça;SC;886.78
+Guaraniaçu;PR;Taió;SC;537.21
+Guaraniaçu;PR;Abelardo Luz;SC;298.54
+Guaraniaçu;PR;Otacílio Costa;SC;568.39
+Guaraniaçu;PR;Cocal do Sul;SC;782.54
+Guaraniaçu;PR;Massaranduba;SC;595.9
+Guaraniaçu;PR;Pouso Redondo;SC;569.89
+Guaraniaçu;PR;Ilhota;SC;642.37
+Guaraniaçu;PR;Governador Celso Ramos;SC;707.16
+Guaraniaçu;PR;Itapiranga;SC;387.26
+Guaraniaçu;PR;Balneário Rincão;SC;904.05
+Guaraniaçu;PR;Balneário Arroio do Silva;SC;932.11
+Guaraniaçu;PR;Correia Pinto;SC;546.9
+Guaraniaçu;PR;Balneário Gaivota;SC;955.88
+Guaraniaçu;PR;Palmitos;SC;350.56
+Guaraniaçu;PR;Santa Cecília;SC;473.38
+Guaraniaçu;PR;Corupá;SC;510.6
+Guaraniaçu;PR;Dionísio Cerqueira;SC;254.0
+Guaraniaçu;PR;Balneário Barra do Sul;SC;598.58
+Guaraniaçu;PR;Lauro Müller;SC;741.37
+Guaraniaçu;PR;São José do Cedro;SC;295.23
+Guaraniaçu;PR;Nova Trento;SC;691.21
+Guaraniaçu;PR;Siderópolis;SC;765.41
+Guaraniaçu;PR;Nova Veneza;SC;775.78
+Guaraniaçu;PR;São Ludgero;SC;767.22
+Guaraniaçu;PR;Turvo;SC;799.36
+Guaraniaçu;PR;Passo de Torres;SC;981.83
+Guaraniaçu;PR;Sangão;SC;872.43
+Guaraniaçu;PR;Lontras;SC;616.32
+Guaraniaçu;PR;Canelinha;SC;691.93
+Guaraniaçu;PR;Rodeio;SC;562.37
+Guaraniaçu;PR;Campo Alegre;SC;494.79
+Guaraniaçu;PR;Gravatal;SC;864.94
+Guaraniaçu;PR;Imaruí;SC;818.1
+Guaraniaçu;PR;Luiz Alves;SC;625.2
+Guaraniaçu;PR;Lebon Régis;SC;439.22
+Guaraniaçu;PR;Antônio Carlos;SC;717.3
+Guaraniaçu;PR;Faxinal dos Guedes;SC;354.78
+Guaraniaçu;PR;Quilombo;SC;277.52
+Guaraniaçu;PR;Agrolândia;SC;601.94
+Guaraniaçu;PR;Cunha Porã;SC;316.79
+Guaraniaçu;PR;Rio dos Cedros;SC;576.64
+Guaraniaçu;PR;Urubici;SC;691.54
+Guaraniaçu;PR;Guaraciaba;SC;304.55
+Guaraniaçu;PR;Ponte Serrada;SC;381.53
+Guaraniaçu;PR;Jacinto Machado;SC;806.63
+Guaraniaçu;PR;Catanduvas;SC;394.8
+Guaraniaçu;PR;Benedito Novo;SC;544.38
+Guaraniaçu;PR;Alfredo Wagner;SC;698.06
+Guaraniaçu;PR;Coronel Freitas;SC;303.9
+Guaraniaçu;PR;Irineópolis;SC;382.78
+Guaraniaçu;PR;São Carlos;SC;350.45
+Guaraniaçu;PR;Saudades;SC;323.2
+Guaraniaçu;PR;Irani;SC;392.0
+Guaraniaçu;PR;Pescaria Brava;SC;836.66
+Guaraniaçu;PR;Mondaí;SC;360.42
+Guaraniaçu;PR;Apiúna;SC;576.51
+Guaraniaçu;PR;Santa Rosa do Sul;SC;957.21
+Guaraniaçu;PR;Campo Erê;SC;243.49
+Guaraniaçu;PR;Iporã do Oeste;SC;353.01
+Guaraniaçu;PR;São Domingos;SC;248.0
+Guaraniaçu;PR;Monte Carlo;SC;477.8
+Guaraniaçu;PR;Paulo Lopes;SC;765.69
+Guaraniaçu;PR;Armazém;SC;870.46
+Guaraniaçu;PR;Treze Tílias;SC;387.66
+Guaraniaçu;PR;São José do Cerrito;SC;543.72
+Guaraniaçu;PR;São João do Sul;SC;974.67
+Guaraniaçu;PR;Descanso;SC;330.58
+Guaraniaçu;PR;Guatambu;SC;344.85
+Guaraniaçu;PR;Bom Retiro;SC;673.3
+Guaraniaçu;PR;Ascurra;SC;566.64
+Guaraniaçu;PR;Anita Garibaldi;SC;534.98
+Guaraniaçu;PR;Praia Grande;SC;990.61
+Guaraniaçu;PR;Tangará;SC;430.86
+Guaraniaçu;PR;Santa Terezinha;SC;480.96
+Guaraniaçu;PR;Laurentino;SC;602.29
+Guaraniaçu;PR;Ipumirim;SC;428.87
+Guaraniaçu;PR;Maracajá;SC;912.65
+Guaraniaçu;PR;Rio do Oeste;SC;590.34
+Guaraniaçu;PR;Monte Castelo;SC;429.23
+Guaraniaçu;PR;Ipuaçu;SC;260.37
+Guaraniaçu;PR;Palma Sola;SC;256.27
+Guaraniaçu;PR;Salete;SC;513.66
+Guaraniaçu;PR;Major Vieira;SC;407.55
+Guaraniaçu;PR;Treze de Maio;SC;873.44
+Guaraniaçu;PR;Timbó Grande;SC;431.08
+Guaraniaçu;PR;Trombudo Central;SC;588.22
+Guaraniaçu;PR;Campo Belo do Sul;SC;585.33
+Guaraniaçu;PR;Itá;SC;405.49
+Guaraniaçu;PR;Ouro;SC;439.72
+Guaraniaçu;PR;Meleiro;SC;941.61
+Guaraniaçu;PR;Aurora;SC;615.08
+Guaraniaçu;PR;Águas Mornas;SC;747.96
+Guaraniaçu;PR;Petrolândia;SC;624.92
+Guaraniaçu;PR;Água Doce;SC;377.2
+Guaraniaçu;PR;Rio do Campo;SC;502.9
+Guaraniaçu;PR;Caibi;SC;341.38
+Guaraniaçu;PR;São João do Oeste;SC;371.77
+Guaraniaçu;PR;Grão-Pará;SC;743.06
+Guaraniaçu;PR;Rio das Antas;SC;414.53
+Guaraniaçu;PR;Vidal Ramos;SC;660.08
+Guaraniaçu;PR;São Cristóvão do Sul;SC;513.79
+Guaraniaçu;PR;Agronômica;SC;594.89
+Guaraniaçu;PR;Águas de Chapecó;SC;352.85
+Guaraniaçu;PR;José Boiteux;SC;533.38
+Guaraniaçu;PR;Imbuia;SC;653.93
+Guaraniaçu;PR;Anchieta;SC;276.19
+Guaraniaçu;PR;Bela Vista do Toldo;SC;400.91
+Guaraniaçu;PR;Luzerna;SC;398.96
+Guaraniaçu;PR;São Pedro de Alcântara;SC;735.87
+Guaraniaçu;PR;Piratuba;SC;469.21
+Guaraniaçu;PR;Timbé do Sul;SC;779.72
+Guaraniaçu;PR;Vitor Meireles;SC;514.86
+Guaraniaçu;PR;Botuverá;SC;688.75
+Guaraniaçu;PR;Angelina;SC;785.76
+Guaraniaçu;PR;Nova Erechim;SC;322.63
+Guaraniaçu;PR;Tunápolis;SC;355.37
+Guaraniaçu;PR;Erval Velho;SC;424.24
+Guaraniaçu;PR;Rio Fortuna;SC;776.37
+Guaraniaçu;PR;Guarujá do Sul;SC;284.79
+Guaraniaçu;PR;Romelândia;SC;293.69
+Guaraniaçu;PR;Cordilheira Alta;SC;322.57
+Guaraniaçu;PR;Riqueza;SC;350.27
+Guaraniaçu;PR;Caxambu do Sul;SC;356.72
+Guaraniaçu;PR;Ipira;SC;466.74
+Guaraniaçu;PR;Vargem Bonita;SC;398.41
+Guaraniaçu;PR;Lindóia do Sul;SC;419.87
+Guaraniaçu;PR;Nova Itaberaba;SC;335.88
+Guaraniaçu;PR;São João do Itaperiú;SC;600.12
+Guaraniaçu;PR;Ponte Alta;SC;533.7
+Guaraniaçu;PR;Salto Veloso;SC;372.92
+Guaraniaçu;PR;Arabutã;SC;415.36
+Guaraniaçu;PR;Jaborá;SC;413.56
+Guaraniaçu;PR;Paraíso;SC;338.17
+Guaraniaçu;PR;Witmarsum;SC;538.39
+Guaraniaçu;PR;Pedras Grandes;SC;872.11
+Guaraniaçu;PR;Dona Emma;SC;547.8
+Guaraniaçu;PR;Modelo;SC;299.28
+Guaraniaçu;PR;Passos Maia;SC;388.57
+Guaraniaçu;PR;Bom Jardim da Serra;SC;707.18
+Guaraniaçu;PR;Braço do Trombudo;SC;588.25
+Guaraniaçu;PR;Iraceminha;SC;324.9
+Guaraniaçu;PR;Zortéa;SC;455.57
+Guaraniaçu;PR;Treviso;SC;752.58
+Guaraniaçu;PR;Xavantina;SC;369.8
+Guaraniaçu;PR;Doutor Pedrinho;SC;523.01
+Guaraniaçu;PR;Vargeão;SC;365.96
+Guaraniaçu;PR;Saltinho;SC;271.19
+Guaraniaçu;PR;Anitápolis;SC;806.58
+Guaraniaçu;PR;Arroio Trinta;SC;384.07
+Guaraniaçu;PR;Bocaina do Sul;SC;621.31
+Guaraniaçu;PR;Pinheiro Preto;SC;410.23
+Guaraniaçu;PR;Calmon;SC;348.12
+Guaraniaçu;PR;São Martinho;SC;884.73
+Guaraniaçu;PR;Entre Rios;SC;283.42
+Guaraniaçu;PR;Leoberto Leal;SC;672.79
+Guaraniaçu;PR;Cerro Negro;SC;567.01
+Guaraniaçu;PR;Serra Alta;SC;291.64
+Guaraniaçu;PR;Rancho Queimado;SC;772.8
+Guaraniaçu;PR;Ibicaré;SC;401.83
+Guaraniaçu;PR;Atalanta;SC;608.04
+Guaraniaçu;PR;Major Gercino;SC;715.75
+Guaraniaçu;PR;Galvão;SC;231.58
+Guaraniaçu;PR;Ponte Alta do Norte;SC;499.83
+Guaraniaçu;PR;Bandeirante;SC;332.62
+Guaraniaçu;PR;Morro Grande;SC;795.72
+Guaraniaçu;PR;Peritiba;SC;446.6
+Guaraniaçu;PR;Princesa;SC;304.0
+Guaraniaçu;PR;Chapadão do Lageado;SC;655.47
+Guaraniaçu;PR;Planalto Alegre;SC;352.83
+Guaraniaçu;PR;São Bonifácio;SC;788.14
+Guaraniaçu;PR;Iomerê;SC;403.34
+Guaraniaçu;PR;Águas Frias;SC;311.44
+Guaraniaçu;PR;Sul Brasil;SC;563.84
+Guaraniaçu;PR;Celso Ramos;SC;508.49
+Guaraniaçu;PR;Bom Jesus;SC;320.69
+Guaraniaçu;PR;União do Oeste;SC;291.52
+Guaraniaçu;PR;Matos Costa;SC;330.48
+Guaraniaçu;PR;São Bernardino;SC;262.91
+Guaraniaçu;PR;Formosa do Sul;SC;261.44
+Guaraniaçu;PR;Belmonte;SC;337.04
+Guaraniaçu;PR;Urupema;SC;639.69
+Guaraniaçu;PR;Novo Horizonte;SC;234.36
+Guaraniaçu;PR;Vargem;SC;502.46
+Guaraniaçu;PR;Capão Alto;SC;603.7
+Guaraniaçu;PR;Abdon Batista;SC;527.88
+Guaraniaçu;PR;Santa Terezinha do Progresso;SC;284.97
+Guaraniaçu;PR;Palmeira;SC;576.67
+Guaraniaçu;PR;Jupiá;SC;238.85
+Guaraniaçu;PR;Mirim Doce;SC;566.78
+Guaraniaçu;PR;Arvoredo;SC;352.2
+Guaraniaçu;PR;Brunópolis;SC;513.57
+Guaraniaçu;PR;Santa Helena;SC;350.28
+Guaraniaçu;PR;Frei Rogério;SC;475.44
+Guaraniaçu;PR;Rio Rufino;SC;650.32
+Guaraniaçu;PR;Tigrinhos;SC;292.36
+Guaraniaçu;PR;Presidente Nereu;SC;645.63
+Guaraniaçu;PR;Ermo;SC;807.5
+Guaraniaçu;PR;Lacerdópolis;SC;422.37
+Guaraniaçu;PR;Painel;SC;613.62
+Guaraniaçu;PR;Bom Jesus do Oeste;SC;286.74
+Guaraniaçu;PR;Marema;SC;303.26
+Guaraniaçu;PR;Ouro Verde;SC;321.64
+Guaraniaçu;PR;Santa Rosa de Lima;SC;828.17
+Guaraniaçu;PR;Irati;SC;274.52
+Guaraniaçu;PR;Coronel Martins;SC;244.26
+Guaraniaçu;PR;Ibiam;SC;444.5
+Guaraniaçu;PR;Cunhataí;SC;336.43
+Guaraniaçu;PR;Paial;SC;362.19
+Guaraniaçu;PR;Alto Bela Vista;SC;456.91
+Guaraniaçu;PR;Flor do Sertão;SC;308.95
+Guaraniaçu;PR;São Miguel da Boa Vista;SC;302.64
+Guaraniaçu;PR;Macieira;SC;387.64
+Guaraniaçu;PR;Jardinópolis;SC;286.08
+Guaraniaçu;PR;Lajeado Grande;SC;314.53
+Guaraniaçu;PR;Presidente Castello Branco;SC;428.99
+Guaraniaçu;PR;Barra Bonita;SC;319.3
+Guaraniaçu;PR;Santiago do Sul;SC;291.14

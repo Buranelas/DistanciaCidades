@@ -1,0 +1,694 @@
+Cidade 1;Estado 1;Cidade 2;Estado 2;Distância (km)
+Vera Cruz do Oeste;PR;Curitiba;PR;551.24
+Vera Cruz do Oeste;PR;Londrina;PR;425.16
+Vera Cruz do Oeste;PR;Maringá;PR;325.92
+Vera Cruz do Oeste;PR;Ponta Grossa;PR;457.45
+Vera Cruz do Oeste;PR;Cascavel;PR;52.61
+Vera Cruz do Oeste;PR;São José dos Pinhais;PR;568.37
+Vera Cruz do Oeste;PR;Foz do Iguaçu;PR;107.81
+Vera Cruz do Oeste;PR;Colombo;PR;566.77
+Vera Cruz do Oeste;PR;Guarapuava;PR;299.61
+Vera Cruz do Oeste;PR;Araucária;PR;543.12
+Vera Cruz do Oeste;PR;Toledo;PR;48.72
+Vera Cruz do Oeste;PR;Fazenda Rio Grande;PR;567.72
+Vera Cruz do Oeste;PR;Paranaguá;PR;648.3
+Vera Cruz do Oeste;PR;Campo Largo;PR;520.95
+Vera Cruz do Oeste;PR;Apucarana;PR;382.61
+Vera Cruz do Oeste;PR;Pinhais;PR;558.45
+Vera Cruz do Oeste;PR;Almirante Tamandaré;PR;560.61
+Vera Cruz do Oeste;PR;Arapongas;PR;386.18
+Vera Cruz do Oeste;PR;Piraquara;PR;586.58
+Vera Cruz do Oeste;PR;Sarandi;PR;332.81
+Vera Cruz do Oeste;PR;Umuarama;PR;177.67
+Vera Cruz do Oeste;PR;Cambé;PR;411.54
+Vera Cruz do Oeste;PR;Campo Mourão;PR;229.86
+Vera Cruz do Oeste;PR;Francisco Beltrão;PR;198.62
+Vera Cruz do Oeste;PR;Paranavaí;PR;324.05
+Vera Cruz do Oeste;PR;Pato Branco;PR;251.96
+Vera Cruz do Oeste;PR;Cianorte;PR;257.2
+Vera Cruz do Oeste;PR;Telêmaco Borba;PR;527.52
+Vera Cruz do Oeste;PR;Castro;PR;491.77
+Vera Cruz do Oeste;PR;Rolândia;PR;404.63
+Vera Cruz do Oeste;PR;Irati;PR;400.51
+Vera Cruz do Oeste;PR;União da Vitória;PR;465.34
+Vera Cruz do Oeste;PR;Marechal Cândido Rondon;PR;87.56
+Vera Cruz do Oeste;PR;Ibiporã;PR;435.77
+Vera Cruz do Oeste;PR;Prudentópolis;PR;361.38
+Vera Cruz do Oeste;PR;Palmas;PR;382.39
+Vera Cruz do Oeste;PR;Campina Grande do Sul;PR;580.16
+Vera Cruz do Oeste;PR;Medianeira;PR;49.86
+Vera Cruz do Oeste;PR;Santo Antônio da Platina;PR;578.16
+Vera Cruz do Oeste;PR;Paiçandu;PR;326.53
+Vera Cruz do Oeste;PR;Cornélio Procópio;PR;487.0
+Vera Cruz do Oeste;PR;Lapa;PR;525.32
+Vera Cruz do Oeste;PR;Dois Vizinhos;PR;177.11
+Vera Cruz do Oeste;PR;São Mateus do Sul;PR;457.16
+Vera Cruz do Oeste;PR;Guaratuba;PR;678.35
+Vera Cruz do Oeste;PR;Jacarezinho;PR;574.94
+Vera Cruz do Oeste;PR;Marialva;PR;341.97
+Vera Cruz do Oeste;PR;Matinhos;PR;668.24
+Vera Cruz do Oeste;PR;Rio Branco do Sul;PR;575.38
+Vera Cruz do Oeste;PR;Assis Chateaubriand;PR;91.5
+Vera Cruz do Oeste;PR;Mandaguari;PR;357.58
+Vera Cruz do Oeste;PR;Jaguariaíva;PR;568.96
+Vera Cruz do Oeste;PR;Palotina;PR;106.24
+Vera Cruz do Oeste;PR;Palmeira;PR;471.62
+Vera Cruz do Oeste;PR;Pitanga;PR;341.74
+Vera Cruz do Oeste;PR;Ivaiporã;PR;360.88
+Vera Cruz do Oeste;PR;Laranjeiras do Sul;PR;190.25
+Vera Cruz do Oeste;PR;Guaíra;PR;148.09
+Vera Cruz do Oeste;PR;Mandaguaçu;PR;339.18
+Vera Cruz do Oeste;PR;Rio Negro;PR;554.84
+Vera Cruz do Oeste;PR;Bandeirantes;PR;523.13
+Vera Cruz do Oeste;PR;Itaperuçu;PR;574.91
+Vera Cruz do Oeste;PR;Quedas do Iguaçu;PR;170.69
+Vera Cruz do Oeste;PR;Pontal do Paraná;PR;658.57
+Vera Cruz do Oeste;PR;Imbituva;PR;405.11
+Vera Cruz do Oeste;PR;Campo Magro;PR;547.09
+Vera Cruz do Oeste;PR;Pinhão;PR;304.99
+Vera Cruz do Oeste;PR;São Miguel do Iguaçu;PR;65.89
+Vera Cruz do Oeste;PR;Ibaiti;PR;580.18
+Vera Cruz do Oeste;PR;Goioerê;PR;162.37
+Vera Cruz do Oeste;PR;Mandirituba;PR;580.87
+Vera Cruz do Oeste;PR;Nova Esperança;PR;360.4
+Vera Cruz do Oeste;PR;Arapoti;PR;584.23
+Vera Cruz do Oeste;PR;Santa Helena;PR;60.16
+Vera Cruz do Oeste;PR;Astorga;PR;378.76
+Vera Cruz do Oeste;PR;Ubiratã;PR;136.04
+Vera Cruz do Oeste;PR;Reserva;PR;452.95
+Vera Cruz do Oeste;PR;Santa Terezinha de Itaipu;PR;86.03
+Vera Cruz do Oeste;PR;Ortigueira;PR;475.01
+Vera Cruz do Oeste;PR;Quatro Barras;PR;582.81
+Vera Cruz do Oeste;PR;Cruzeiro do Oeste;PR;199.21
+Vera Cruz do Oeste;PR;Santo Antônio do Sudoeste;PR;182.85
+Vera Cruz do Oeste;PR;Piraí do Sul;PR;523.55
+Vera Cruz do Oeste;PR;Coronel Vivida;PR;248.01
+Vera Cruz do Oeste;PR;Carambeí;PR;471.88
+Vera Cruz do Oeste;PR;Loanda;PR;302.9
+Vera Cruz do Oeste;PR;Cambará;PR;557.06
+Vera Cruz do Oeste;PR;Colorado;PR;413.48
+Vera Cruz do Oeste;PR;Siqueira Campos;PR;624.11
+Vera Cruz do Oeste;PR;Jandaia do Sul;PR;360.0
+Vera Cruz do Oeste;PR;Chopinzinho;PR;264.49
+Vera Cruz do Oeste;PR;Capanema;PR;139.57
+Vera Cruz do Oeste;PR;Tibagi;PR;519.63
+Vera Cruz do Oeste;PR;Andirá;PR;538.38
+Vera Cruz do Oeste;PR;Ampére;PR;147.11
+Vera Cruz do Oeste;PR;Realeza;PR;126.5
+Vera Cruz do Oeste;PR;Wenceslau Braz;PR;619.66
+Vera Cruz do Oeste;PR;Contenda;PR;548.24
+Vera Cruz do Oeste;PR;Cafelândia;PR;108.16
+Vera Cruz do Oeste;PR;Altônia;PR;172.13
+Vera Cruz do Oeste;PR;Matelândia;PR;36.2
+Vera Cruz do Oeste;PR;Quitandinha;PR;578.26
+Vera Cruz do Oeste;PR;Morretes;PR;626.67
+Vera Cruz do Oeste;PR;Terra Roxa;PR;135.77
+Vera Cruz do Oeste;PR;Antonina;PR;640.99
+Vera Cruz do Oeste;PR;Tijucas do Sul;PR;610.95
+Vera Cruz do Oeste;PR;Terra Boa;PR;286.4
+Vera Cruz do Oeste;PR;Corbélia;PR;82.67
+Vera Cruz do Oeste;PR;Sengés;PR;606.08
+Vera Cruz do Oeste;PR;Mangueirinha;PR;314.41
+Vera Cruz do Oeste;PR;Faxinal;PR;401.69
+Vera Cruz do Oeste;PR;Cerro Azul;PR;630.89
+Vera Cruz do Oeste;PR;Cruz Machado;PR;383.49
+Vera Cruz do Oeste;PR;Sertanópolis;PR;455.74
+Vera Cruz do Oeste;PR;Marmeleiro;PR;205.71
+Vera Cruz do Oeste;PR;Tapejara;PR;224.59
+Vera Cruz do Oeste;PR;Bituruna;PR;384.91
+Vera Cruz do Oeste;PR;Cândido de Abreu;PR;380.88
+Vera Cruz do Oeste;PR;Salto do Lontra;PR;145.03
+Vera Cruz do Oeste;PR;Clevelândia;PR;289.25
+Vera Cruz do Oeste;PR;Candói;PR;260.1
+Vera Cruz do Oeste;PR;Terra Rica;PR;354.2
+Vera Cruz do Oeste;PR;Bela Vista do Paraíso;PR;452.6
+Vera Cruz do Oeste;PR;Capitão Leônidas Marques;PR;92.3
+Vera Cruz do Oeste;PR;Rebouças;PR;417.87
+Vera Cruz do Oeste;PR;Ipiranga;PR;447.92
+Vera Cruz do Oeste;PR;Santa Izabel do Oeste;PR;135.8
+Vera Cruz do Oeste;PR;Rio Azul;PR;404.0
+Vera Cruz do Oeste;PR;Alto Paraná;PR;334.12
+Vera Cruz do Oeste;PR;Assaí;PR;467.35
+Vera Cruz do Oeste;PR;São João do Triunfo;PR;467.46
+Vera Cruz do Oeste;PR;Curiúva;PR;570.14
+Vera Cruz do Oeste;PR;Tamarana;PR;447.73
+Vera Cruz do Oeste;PR;Carlópolis;PR;622.24
+Vera Cruz do Oeste;PR;Paraíso do Norte;PR;293.61
+Vera Cruz do Oeste;PR;Ivaí;PR;408.26
+Vera Cruz do Oeste;PR;Araruna;PR;251.29
+Vera Cruz do Oeste;PR;Peabirú;PR;252.34
+Vera Cruz do Oeste;PR;Engenheiro Beltrão;PR;269.05
+Vera Cruz do Oeste;PR;Campina da Lagoa;PR;166.35
+Vera Cruz do Oeste;PR;Jaguapitã;PR;399.13
+Vera Cruz do Oeste;PR;Mallet;PR;422.49
+Vera Cruz do Oeste;PR;General Carneiro;PR;440.14
+Vera Cruz do Oeste;PR;Iporã;PR;148.43
+Vera Cruz do Oeste;PR;Manoel Ribas;PR;342.11
+Vera Cruz do Oeste;PR;Imbaú;PR;504.73
+Vera Cruz do Oeste;PR;Planalto;PR;147.97
+Vera Cruz do Oeste;PR;Cantagalo;PR;219.63
+Vera Cruz do Oeste;PR;Bocaiuva do Sul;PR;588.64
+Vera Cruz do Oeste;PR;Rio Bonito do Iguaçu;PR;205.9
+Vera Cruz do Oeste;PR;Balsa Nova;PR;532.58
+Vera Cruz do Oeste;PR;Nova Londrina;PR;332.12
+Vera Cruz do Oeste;PR;Piên;PR;625.38
+Vera Cruz do Oeste;PR;Turvo;PR;335.87
+Vera Cruz do Oeste;PR;Cidade Gaúcha;PR;245.26
+Vera Cruz do Oeste;PR;Mamborê;PR;196.45
+Vera Cruz do Oeste;PR;Ribeirão do Pinhal;PR;542.41
+Vera Cruz do Oeste;PR;Teixeira Soares;PR;422.85
+Vera Cruz do Oeste;PR;Palmital;PR;265.99
+Vera Cruz do Oeste;PR;Jataizinho;PR;446.59
+Vera Cruz do Oeste;PR;Porecatu;PR;449.62
+Vera Cruz do Oeste;PR;Querência do Norte;PR;274.04
+Vera Cruz do Oeste;PR;Guaraniaçu;PR;123.37
+Vera Cruz do Oeste;PR;Santa Fé;PR;377.59
+Vera Cruz do Oeste;PR;Itapejara d'Oeste;PR;215.79
+Vera Cruz do Oeste;PR;Ventania;PR;563.05
+Vera Cruz do Oeste;PR;Moreira Sales;PR;183.37
+Vera Cruz do Oeste;PR;Três Barras do Paraná;PR;142.99
+Vera Cruz do Oeste;PR;Joaquim Távora;PR;597.88
+Vera Cruz do Oeste;PR;Céu Azul;PR;16.05
+Vera Cruz do Oeste;PR;Santa Mariana;PR;503.27
+Vera Cruz do Oeste;PR;Paranacity;PR;392.27
+Vera Cruz do Oeste;PR;Nova Laranjeiras;PR;171.02
+Vera Cruz do Oeste;PR;Alvorada do Sul;PR;478.12
+Vera Cruz do Oeste;PR;Barbosa Ferraz;PR;290.75
+Vera Cruz do Oeste;PR;Itaipulândia;PR;77.34
+Vera Cruz do Oeste;PR;Pérola;PR;180.21
+Vera Cruz do Oeste;PR;Uraí;PR;476.87
+Vera Cruz do Oeste;PR;Jardim Alegre;PR;352.24
+Vera Cruz do Oeste;PR;Primeiro de Maio;PR;480.2
+Vera Cruz do Oeste;PR;São Jerônimo da Serra;PR;514.21
+Vera Cruz do Oeste;PR;Inácio Martins;PR;356.31
+Vera Cruz do Oeste;PR;São Pedro do Ivaí;PR;345.06
+Vera Cruz do Oeste;PR;Mauá da Serra;PR;423.04
+Vera Cruz do Oeste;PR;Centenário do Sul;PR;421.08
+Vera Cruz do Oeste;PR;Missal;PR;70.09
+Vera Cruz do Oeste;PR;Ribeirão Claro;PR;607.87
+Vera Cruz do Oeste;PR;Nova Prata do Iguaçu;PR;125.51
+Vera Cruz do Oeste;PR;Florestópolis;PR;436.14
+Vera Cruz do Oeste;PR;Mariluz;PR;201.56
+Vera Cruz do Oeste;PR;Barracão;PR;208.44
+Vera Cruz do Oeste;PR;Nova Aurora;PR;120.49
+Vera Cruz do Oeste;PR;São João;PR;222.76
+Vera Cruz do Oeste;PR;Catanduvas;PR;107.21
+Vera Cruz do Oeste;PR;Iretama;PR;265.56
+Vera Cruz do Oeste;PR;Santa Tereza do Oeste;PR;33.66
+Vera Cruz do Oeste;PR;São João do Ivaí;PR;323.43
+Vera Cruz do Oeste;PR;Alto Piquiri;PR;143.32
+Vera Cruz do Oeste;PR;Roncador;PR;233.63
+Vera Cruz do Oeste;PR;Rondon;PR;269.47
+Vera Cruz do Oeste;PR;Japurá;PR;280.03
+Vera Cruz do Oeste;PR;Agudos do Sul;PR;608.41
+Vera Cruz do Oeste;PR;Santa Maria do Oeste;PR;306.39
+Vera Cruz do Oeste;PR;São Jorge d'Oeste;PR;215.39
+Vera Cruz do Oeste;PR;Tunas do Paraná;PR;627.21
+Vera Cruz do Oeste;PR;Douradina;PR;232.44
+Vera Cruz do Oeste;PR;São Sebastião da Amoreira;PR;485.08
+Vera Cruz do Oeste;PR;Congonhinhas;PR;517.26
+Vera Cruz do Oeste;PR;Marilândia do Sul;PR;412.72
+Vera Cruz do Oeste;PR;Guamiranga;PR;379.14
+Vera Cruz do Oeste;PR;Califórnia;PR;400.79
+Vera Cruz do Oeste;PR;Tuneiras do Oeste;PR;222.76
+Vera Cruz do Oeste;PR;Santa Isabel do Ivaí;PR;285.85
+Vera Cruz do Oeste;PR;Jesuítas;PR;106.67
+Vera Cruz do Oeste;PR;Nova Santa Rosa;PR;84.37
+Vera Cruz do Oeste;PR;Ivaté;PR;225.11
+Vera Cruz do Oeste;PR;Nova Fátima;PR;517.77
+Vera Cruz do Oeste;PR;Tupãssi;PR;79.01
+Vera Cruz do Oeste;PR;Reserva do Iguaçu;PR;300.92
+Vera Cruz do Oeste;PR;Campo do Tenente;PR;553.4
+Vera Cruz do Oeste;PR;Cambira;PR;368.8
+Vera Cruz do Oeste;PR;Tomazina;PR;611.94
+Vera Cruz do Oeste;PR;Icaraíma;PR;241.63
+Vera Cruz do Oeste;PR;Santa Cruz de Monte Castelo;PR;300.81
+Vera Cruz do Oeste;PR;Figueira;PR;587.14
+Vera Cruz do Oeste;PR;Guaraqueçaba;PR;729.73
+Vera Cruz do Oeste;PR;Boa Vista da Aparecida;PR;125.12
+Vera Cruz do Oeste;PR;Coronel Domingos Soares;PR;364.87
+Vera Cruz do Oeste;PR;Quatiguá;PR;606.59
+Vera Cruz do Oeste;PR;Antônio Olinto;PR;487.45
+Vera Cruz do Oeste;PR;Abatiá;PR;545.01
+Vera Cruz do Oeste;PR;Paulo Frontin;PR;442.65
+Vera Cruz do Oeste;PR;Juranda;PR;160.46
+Vera Cruz do Oeste;PR;Luiziana;PR;255.95
+Vera Cruz do Oeste;PR;Bom Sucesso;PR;339.35
+Vera Cruz do Oeste;PR;Verê;PR;200.67
+Vera Cruz do Oeste;PR;Marilena;PR;336.11
+Vera Cruz do Oeste;PR;Goioxim;PR;251.47
+Vera Cruz do Oeste;PR;Jussara;PR;271.68
+Vera Cruz do Oeste;PR;São Carlos do Ivaí;PR;311.64
+Vera Cruz do Oeste;PR;Sabáudia;PR;392.78
+Vera Cruz do Oeste;PR;Vitorino;PR;237.99
+Vera Cruz do Oeste;PR;Floresta;PR;299.05
+Vera Cruz do Oeste;PR;Renascença;PR;211.93
+Vera Cruz do Oeste;PR;Sapopema;PR;546.89
+Vera Cruz do Oeste;PR;Mariópolis;PR;266.72
+Vera Cruz do Oeste;PR;Guairaçá;PR;328.39
+Vera Cruz do Oeste;PR;Itambaracá;PR;534.87
+Vera Cruz do Oeste;PR;Amaporã;PR;310.67
+Vera Cruz do Oeste;PR;Ibema;PR;106.53
+Vera Cruz do Oeste;PR;Formosa do Oeste;PR;119.87
+Vera Cruz do Oeste;PR;Boa Ventura de São Roque;PR;358.8
+Vera Cruz do Oeste;PR;Pinhalão;PR;598.97
+Vera Cruz do Oeste;PR;Borrazópolis;PR;377.87
+Vera Cruz do Oeste;PR;Pérola d'Oeste;PR;150.48
+Vera Cruz do Oeste;PR;Perobal;PR;158.52
+Vera Cruz do Oeste;PR;São José da Boa Vista;PR;634.41
+Vera Cruz do Oeste;PR;Itambé;PR;310.78
+Vera Cruz do Oeste;PR;Ouro Verde do Oeste;PR;43.14
+Vera Cruz do Oeste;PR;Doutor Camargo;PR;300.07
+Vera Cruz do Oeste;PR;Francisco Alves;PR;131.55
+Vera Cruz do Oeste;PR;Paula Freitas;PR;481.8
+Vera Cruz do Oeste;PR;Enéas Marques;PR;175.07
+Vera Cruz do Oeste;PR;Nova Olímpia;PR;223.89
+Vera Cruz do Oeste;PR;São João do Caiuá;PR;354.64
+Vera Cruz do Oeste;PR;Adrianópolis;PR;681.47
+Vera Cruz do Oeste;PR;São Tomé;PR;271.83
+Vera Cruz do Oeste;PR;Pato Bragado;PR;76.92
+Vera Cruz do Oeste;PR;São Pedro do Iguaçu;PR;15.89
+Vera Cruz do Oeste;PR;Laranjal;PR;287.39
+Vera Cruz do Oeste;PR;Mercedes;PR;103.97
+Vera Cruz do Oeste;PR;Maria Helena;PR;199.29
+Vera Cruz do Oeste;PR;Xambrê;PR;194.9
+Vera Cruz do Oeste;PR;Saudade do Iguaçu;PR;239.33
+Vera Cruz do Oeste;PR;Maripá;PR;87.77
+Vera Cruz do Oeste;PR;Fernandes Pinheiro;PR;411.93
+Vera Cruz do Oeste;PR;Guaraci;PR;401.68
+Vera Cruz do Oeste;PR;São Jorge do Ivaí;PR;309.89
+Vera Cruz do Oeste;PR;São Jorge do Patrocínio;PR;186.02
+Vera Cruz do Oeste;PR;Doutor Ulysses;PR;632.74
+Vera Cruz do Oeste;PR;Tapira;PR;241.96
+Vera Cruz do Oeste;PR;Santo Inácio;PR;419.83
+Vera Cruz do Oeste;PR;Presidente Castelo Branco;PR;335.12
+Vera Cruz do Oeste;PR;Grandes Rios;PR;416.09
+Vera Cruz do Oeste;PR;Braganey;PR;105.75
+Vera Cruz do Oeste;PR;Jaboti;PR;600.93
+Vera Cruz do Oeste;PR;Diamante D'Oeste;PR;27.73
+Vera Cruz do Oeste;PR;Nova Tebas;PR;300.73
+Vera Cruz do Oeste;PR;Tamboara;PR;308.3
+Vera Cruz do Oeste;PR;Sertaneja;PR;492.05
+Vera Cruz do Oeste;PR;Pranchita;PR;175.71
+Vera Cruz do Oeste;PR;Honório Serpa;PR;277.71
+Vera Cruz do Oeste;PR;Nova Esperança do Sudoeste;PR;161.85
+Vera Cruz do Oeste;PR;Diamante do Norte;PR;356.0
+Vera Cruz do Oeste;PR;Lupionópolis;PR;425.17
+Vera Cruz do Oeste;PR;Janiópolis;PR;200.5
+Vera Cruz do Oeste;PR;Japira;PR;588.89
+Vera Cruz do Oeste;PR;Santana do Itararé;PR;649.88
+Vera Cruz do Oeste;PR;Porto Amazonas;PR;489.48
+Vera Cruz do Oeste;PR;Floraí;PR;330.15
+Vera Cruz do Oeste;PR;Salto do Itararé;PR;649.14
+Vera Cruz do Oeste;PR;Lobato;PR;393.92
+Vera Cruz do Oeste;PR;ova Cantu;PR;195.16
+Vera Cruz do Oeste;PR;Fênix;PR;303.25
+Vera Cruz do Oeste;PR;Lunardelli;PR;337.64
+Vera Cruz do Oeste;PR;Marumbi;PR;357.87
+Vera Cruz do Oeste;PR;Entre Rios do Oeste;PR;67.73
+Vera Cruz do Oeste;PR;Rosário do Ivaí;PR;447.95
+Vera Cruz do Oeste;PR;Flor da Serra do Sul;PR;209.41
+Vera Cruz do Oeste;PR;Ramilândia;PR;24.49
+Vera Cruz do Oeste;PR;Lindoeste;PR;61.74
+Vera Cruz do Oeste;PR;Iguaraçu;PR;359.77
+Vera Cruz do Oeste;PR;Indianópolis;PR;280.5
+Vera Cruz do Oeste;PR;Foz do Jordão;PR;283.19
+Vera Cruz do Oeste;PR;Serranópolis do Iguaçu;PR;61.69
+Vera Cruz do Oeste;PR;Quinta do Sol;PR;282.44
+Vera Cruz do Oeste;PR;Cruzeiro do Sul;PR;388.65
+Vera Cruz do Oeste;PR;Itaguajé;PR;438.0
+Vera Cruz do Oeste;PR;Quarto Centenário;PR;147.56
+Vera Cruz do Oeste;PR;Nova Santa Bárbara;PR;498.32
+Vera Cruz do Oeste;PR;Marquinho;PR;229.53
+Vera Cruz do Oeste;PR;Planaltina do Paraná;PR;295.24
+Vera Cruz do Oeste;PR;Cruzeiro do Iguaçu;PR;155.41
+Vera Cruz do Oeste;PR;Rio Branco do Ivaí;PR;409.16
+Vera Cruz do Oeste;PR;Porto Vitória;PR;474.24
+Vera Cruz do Oeste;PR;Santa Mônica;PR;267.23
+Vera Cruz do Oeste;PR;Virmond;PR;211.33
+Vera Cruz do Oeste;PR;Quatro Pontes;PR;78.02
+Vera Cruz do Oeste;PR;Munhoz de Melo;PR;371.65
+Vera Cruz do Oeste;PR;Nossa Senhora das Graças;PR;395.08
+Vera Cruz do Oeste;PR;Kaloré;PR;372.17
+Vera Cruz do Oeste;PR;Boa Esperança;PR;186.73
+Vera Cruz do Oeste;PR;Espigão Alto do Iguaçu;PR;177.78
+Vera Cruz do Oeste;PR;Cafezal do Sul;PR;157.94
+Vera Cruz do Oeste;PR;Leópolis;PR;500.75
+Vera Cruz do Oeste;PR;Conselheiro Mairinck;PR;591.24
+Vera Cruz do Oeste;PR;Atalaia;PR;371.27
+Vera Cruz do Oeste;PR;Campina do Simão;PR;316.06
+Vera Cruz do Oeste;PR;Prado Ferreira;PR;414.5
+Vera Cruz do Oeste;PR;Santa Lúcia;PR;96.8
+Vera Cruz do Oeste;PR;Guapirama;PR;583.75
+Vera Cruz do Oeste;PR;Rancho Alegre;PR;489.58
+Vera Cruz do Oeste;PR;Campo Bonito;PR;119.65
+Vera Cruz do Oeste;PR;São José das Palmeiras;PR;38.1
+Vera Cruz do Oeste;PR;Bom Jesus do Sul;PR;206.92
+Vera Cruz do Oeste;PR;Nova América da Colina;PR;488.31
+Vera Cruz do Oeste;PR;Ourizona;PR;321.31
+Vera Cruz do Oeste;PR;Diamante do Sul;PR;151.74
+Vera Cruz do Oeste;PR;Bela Vista da Caroba;PR;151.37
+Vera Cruz do Oeste;PR;Salgado Filho;PR;195.31
+Vera Cruz do Oeste;PR;Ivatuba;PR;321.15
+Vera Cruz do Oeste;PR;Pitangueiras;PR;393.8
+Vera Cruz do Oeste;PR;Paranapoema;PR;397.05
+Vera Cruz do Oeste;PR;Santa Cecília do Pavão;PR;489.54
+Vera Cruz do Oeste;PR;undiaí do Sul;PR;557.9
+Vera Cruz do Oeste;PR;Bom Sucesso do Sul;PR;223.37
+Vera Cruz do Oeste;PR;Santa Amélia;PR;550.54
+Vera Cruz do Oeste;PR;Rio Bom;PR;405.86
+Vera Cruz do Oeste;PR;Lidianópolis;PR;353.63
+Vera Cruz do Oeste;PR;Mato Rico;PR;255.29
+Vera Cruz do Oeste;PR;Porto Barreiro;PR;209.29
+Vera Cruz do Oeste;PR;Inajá;PR;383.76
+Vera Cruz do Oeste;PR;Corumbataí do Sul;PR;274.95
+Vera Cruz do Oeste;PR;Farol;PR;207.41
+Vera Cruz do Oeste;PR;Cafeara;PR;416.15
+Vera Cruz do Oeste;PR;Arapuã;PR;335.08
+Vera Cruz do Oeste;PR;Ângulo;PR;364.69
+Vera Cruz do Oeste;PR;Cruzmaltina;PR;386.48
+Vera Cruz do Oeste;PR;Sulina;PR;223.82
+Vera Cruz do Oeste;PR;Godoy Moreira;PR;356.22
+Vera Cruz do Oeste;PR;Novo Itacolomi;PR;390.41
+Vera Cruz do Oeste;PR;Barra do Jacaré;PR;549.1
+Vera Cruz do Oeste;PR;Anahy;PR;113.3
+Vera Cruz do Oeste;PR;Pinhal de São Bento;PR;164.26
+Vera Cruz do Oeste;PR;Flórida;PR;384.74
+Vera Cruz do Oeste;PR;Itaúna do Sul;PR;345.85
+Vera Cruz do Oeste;PR;Alto Paraíso;PR;222.74
+Vera Cruz do Oeste;PR;Uniflor;PR;374.22
+Vera Cruz do Oeste;PR;Santo Antônio do Caiuá;PR;368.53
+Vera Cruz do Oeste;PR;Rancho Alegre D'Oeste;PR;178.93
+Vera Cruz do Oeste;PR;Porto Rico;PR;318.12
+Vera Cruz do Oeste;PR;Brasilândia do Sul;PR;114.86
+Vera Cruz do Oeste;PR;Manfrinópolis;PR;184.65
+Vera Cruz do Oeste;PR;Boa Esperança do Iguaçu;PR;141.67
+Vera Cruz do Oeste;PR;São Pedro do Paraná;PR;316.54
+Vera Cruz do Oeste;PR;Iguatu;PR;123.42
+Vera Cruz do Oeste;PR;Guaporema;PR;281.04
+Vera Cruz do Oeste;PR;Iracema do Oeste;PR;113.62
+Vera Cruz do Oeste;PR;Mirador;PR;309.8
+Vera Cruz do Oeste;PR;São Manoel do Paraná;PR;292.19
+Vera Cruz do Oeste;PR;Santo Antônio do Paraíso;PR;499.47
+Vera Cruz do Oeste;PR;Ariranha do Ivaí;PR;370.14
+Vera Cruz do Oeste;PR;Miraselva;PR;426.29
+Vera Cruz do Oeste;PR;Esperança Nova;PR;200.01
+Vera Cruz do Oeste;PR;Santa Inês;PR;433.76
+Vera Cruz do Oeste;PR;Altamira do Paraná;PR;198.49
+Vera Cruz do Oeste;PR;Jardim Olinda;PR;409.55
+Vera Cruz do Oeste;PR;Nova Aliança do Ivaí;PR;305.35
+Vera Cruz do Oeste;PR;Joinville;SC;678.16
+Vera Cruz do Oeste;PR;Florianópolis;SC;855.28
+Vera Cruz do Oeste;PR;Blumenau;SC;796.19
+Vera Cruz do Oeste;PR;São José;SC;843.4
+Vera Cruz do Oeste;PR;Itajaí;SC;759.81
+Vera Cruz do Oeste;PR;Chapecó;SC;357.13
+Vera Cruz do Oeste;PR;Palhoça;SC;850.4
+Vera Cruz do Oeste;PR;Criciúma;SC;824.22
+Vera Cruz do Oeste;PR;Jaraguá do Sul;SC;651.47
+Vera Cruz do Oeste;PR;Lages;SC;630.91
+Vera Cruz do Oeste;PR;Brusque;SC;789.92
+Vera Cruz do Oeste;PR;Balneário Camboriú;SC;770.98
+Vera Cruz do Oeste;PR;Tubarão;SC;970.01
+Vera Cruz do Oeste;PR;Camboriú;SC;771.59
+Vera Cruz do Oeste;PR;Navegantes;SC;756.1
+Vera Cruz do Oeste;PR;São Bento do Sul;SC;606.43
+Vera Cruz do Oeste;PR;Concórdia;SC;429.93
+Vera Cruz do Oeste;PR;Biguaçu;SC;830.5
+Vera Cruz do Oeste;PR;Itapema;SC;783.06
+Vera Cruz do Oeste;PR;Caçador;SC;525.0
+Vera Cruz do Oeste;PR;Rio do Sul;SC;726.3
+Vera Cruz do Oeste;PR;Gaspar;SC;776.51
+Vera Cruz do Oeste;PR;Araranguá;SC;854.03
+Vera Cruz do Oeste;PR;Indaial;SC;689.41
+Vera Cruz do Oeste;PR;Içara;SC;1019.9
+Vera Cruz do Oeste;PR;Videira;SC;536.33
+Vera Cruz do Oeste;PR;Mafra;SC;550.07
+Vera Cruz do Oeste;PR;Canoinhas;SC;502.08
+Vera Cruz do Oeste;PR;São Francisco do Sul;SC;724.72
+Vera Cruz do Oeste;PR;Imbituba;SC;923.62
+Vera Cruz do Oeste;PR;Xanxerê;SC;342.93
+Vera Cruz do Oeste;PR;Tijucas;SC;799.67
+Vera Cruz do Oeste;PR;Guaramirim;SC;701.08
+Vera Cruz do Oeste;PR;Timbó;SC;680.34
+Vera Cruz do Oeste;PR;Barra Velha;SC;722.43
+Vera Cruz do Oeste;PR;Araquari;SC;704.59
+Vera Cruz do Oeste;PR;São Miguel do Oeste;SC;283.74
+Vera Cruz do Oeste;PR;Laguna;SC;954.37
+Vera Cruz do Oeste;PR;Curitibanos;SC;616.33
+Vera Cruz do Oeste;PR;Rio Negrinho;SC;588.7
+Vera Cruz do Oeste;PR;Campos Novos;SC;504.97
+Vera Cruz do Oeste;PR;Pomerode;SC;682.39
+Vera Cruz do Oeste;PR;Braço do Norte;SC;802.0
+Vera Cruz do Oeste;PR;Penha;SC;745.01
+Vera Cruz do Oeste;PR;Fraiburgo;SC;573.18
+Vera Cruz do Oeste;PR;Porto União;SC;467.96
+Vera Cruz do Oeste;PR;São João Batista;SC;813.51
+Vera Cruz do Oeste;PR;Xaxim;SC;359.71
+Vera Cruz do Oeste;PR;Forquilhinha;SC;852.8
+Vera Cruz do Oeste;PR;Itapoá;SC;682.8
+Vera Cruz do Oeste;PR;Joaçaba;SC;463.15
+Vera Cruz do Oeste;PR;Sombrio;SC;847.87
+Vera Cruz do Oeste;PR;Garopaba;SC;904.8
+Vera Cruz do Oeste;PR;Maravilha;SC;293.75
+Vera Cruz do Oeste;PR;Porto Belo;SC;794.81
+Vera Cruz do Oeste;PR;Santo Amaro da Imperatriz;SC;862.97
+Vera Cruz do Oeste;PR;Balneário Piçarras;SC;737.97
+Vera Cruz do Oeste;PR;Ituporanga;SC;751.08
+Vera Cruz do Oeste;PR;São Joaquim;SC;710.71
+Vera Cruz do Oeste;PR;Bombinhas;SC;804.12
+Vera Cruz do Oeste;PR;São Lourenço do Oeste;SC;250.7
+Vera Cruz do Oeste;PR;Guabiruba;SC;796.34
+Vera Cruz do Oeste;PR;Capivari de Baixo;SC;964.59
+Vera Cruz do Oeste;PR;Orleans;SC;800.39
+Vera Cruz do Oeste;PR;Capinzal;SC;488.15
+Vera Cruz do Oeste;PR;Itaiópolis;SC;559.01
+Vera Cruz do Oeste;PR;Pinhalzinho;SC;307.76
+Vera Cruz do Oeste;PR;Herval d'Oeste;SC;464.47
+Vera Cruz do Oeste;PR;Urussanga;SC;819.89
+Vera Cruz do Oeste;PR;Jaguaruna;SC;989.91
+Vera Cruz do Oeste;PR;Schroeder;SC;705.0
+Vera Cruz do Oeste;PR;Presidente Getúlio;SC;690.25
+Vera Cruz do Oeste;PR;Ibirama;SC;751.28
+Vera Cruz do Oeste;PR;Três Barras;SC;489.69
+Vera Cruz do Oeste;PR;Papanduva;SC;550.59
+Vera Cruz do Oeste;PR;Seara;SC;390.73
+Vera Cruz do Oeste;PR;Garuva;SC;641.76
+Vera Cruz do Oeste;PR;Morro da Fumaça;SC;1009.39
+Vera Cruz do Oeste;PR;Taió;SC;659.82
+Vera Cruz do Oeste;PR;Abelardo Luz;SC;308.28
+Vera Cruz do Oeste;PR;Otacílio Costa;SC;691.0
+Vera Cruz do Oeste;PR;Cocal do Sul;SC;828.79
+Vera Cruz do Oeste;PR;Massaranduba;SC;718.51
+Vera Cruz do Oeste;PR;Pouso Redondo;SC;692.5
+Vera Cruz do Oeste;PR;Ilhota;SC;764.98
+Vera Cruz do Oeste;PR;Governador Celso Ramos;SC;829.77
+Vera Cruz do Oeste;PR;Itapiranga;SC;352.4
+Vera Cruz do Oeste;PR;Balneário Rincão;SC;1026.66
+Vera Cruz do Oeste;PR;Balneário Arroio do Silva;SC;862.83
+Vera Cruz do Oeste;PR;Correia Pinto;SC;669.51
+Vera Cruz do Oeste;PR;Balneário Gaivota;SC;854.73
+Vera Cruz do Oeste;PR;Palmitos;SC;352.51
+Vera Cruz do Oeste;PR;Santa Cecília;SC;595.99
+Vera Cruz do Oeste;PR;Corupá;SC;633.21
+Vera Cruz do Oeste;PR;Dionísio Cerqueira;SC;210.31
+Vera Cruz do Oeste;PR;Balneário Barra do Sul;SC;721.19
+Vera Cruz do Oeste;PR;Lauro Müller;SC;787.62
+Vera Cruz do Oeste;PR;São José do Cedro;SC;252.03
+Vera Cruz do Oeste;PR;Nova Trento;SC;813.82
+Vera Cruz do Oeste;PR;Siderópolis;SC;811.66
+Vera Cruz do Oeste;PR;Nova Veneza;SC;822.03
+Vera Cruz do Oeste;PR;São Ludgero;SC;813.48
+Vera Cruz do Oeste;PR;Turvo;SC;822.59
+Vera Cruz do Oeste;PR;Passo de Torres;SC;880.68
+Vera Cruz do Oeste;PR;Sangão;SC;995.04
+Vera Cruz do Oeste;PR;Lontras;SC;738.93
+Vera Cruz do Oeste;PR;Canelinha;SC;814.54
+Vera Cruz do Oeste;PR;Rodeio;SC;684.98
+Vera Cruz do Oeste;PR;Campo Alegre;SC;617.4
+Vera Cruz do Oeste;PR;Gravatal;SC;987.55
+Vera Cruz do Oeste;PR;Imaruí;SC;940.71
+Vera Cruz do Oeste;PR;Luiz Alves;SC;747.81
+Vera Cruz do Oeste;PR;Lebon Régis;SC;561.83
+Vera Cruz do Oeste;PR;Antônio Carlos;SC;839.91
+Vera Cruz do Oeste;PR;Faxinal dos Guedes;SC;360.21
+Vera Cruz do Oeste;PR;Quilombo;SC;305.86
+Vera Cruz do Oeste;PR;Agrolândia;SC;724.55
+Vera Cruz do Oeste;PR;Cunha Porã;SC;318.74
+Vera Cruz do Oeste;PR;Rio dos Cedros;SC;699.25
+Vera Cruz do Oeste;PR;Urubici;SC;737.79
+Vera Cruz do Oeste;PR;Guaraciaba;SC;269.69
+Vera Cruz do Oeste;PR;Ponte Serrada;SC;386.97
+Vera Cruz do Oeste;PR;Jacinto Machado;SC;829.86
+Vera Cruz do Oeste;PR;Catanduvas;SC;437.97
+Vera Cruz do Oeste;PR;Benedito Novo;SC;666.99
+Vera Cruz do Oeste;PR;Alfredo Wagner;SC;744.31
+Vera Cruz do Oeste;PR;Coronel Freitas;SC;332.24
+Vera Cruz do Oeste;PR;Irineópolis;SC;505.39
+Vera Cruz do Oeste;PR;São Carlos;SC;346.2
+Vera Cruz do Oeste;PR;Saudades;SC;318.95
+Vera Cruz do Oeste;PR;Irani;SC;418.61
+Vera Cruz do Oeste;PR;Pescaria Brava;SC;959.27
+Vera Cruz do Oeste;PR;Mondaí;SC;342.6
+Vera Cruz do Oeste;PR;Apiúna;SC;699.12
+Vera Cruz do Oeste;PR;Santa Rosa do Sul;SC;856.05
+Vera Cruz do Oeste;PR;Campo Erê;SC;239.25
+Vera Cruz do Oeste;PR;Iporã do Oeste;SC;318.15
+Vera Cruz do Oeste;PR;São Domingos;SC;298.83
+Vera Cruz do Oeste;PR;Monte Carlo;SC;600.41
+Vera Cruz do Oeste;PR;Paulo Lopes;SC;888.3
+Vera Cruz do Oeste;PR;Armazém;SC;993.07
+Vera Cruz do Oeste;PR;Treze Tílias;SC;510.27
+Vera Cruz do Oeste;PR;São José do Cerrito;SC;589.97
+Vera Cruz do Oeste;PR;São João do Sul;SC;873.52
+Vera Cruz do Oeste;PR;Descanso;SC;295.73
+Vera Cruz do Oeste;PR;Guatambu;SC;373.18
+Vera Cruz do Oeste;PR;Bom Retiro;SC;719.55
+Vera Cruz do Oeste;PR;Ascurra;SC;689.25
+Vera Cruz do Oeste;PR;Anita Garibaldi;SC;586.75
+Vera Cruz do Oeste;PR;Praia Grande;SC;889.45
+Vera Cruz do Oeste;PR;Tangará;SC;553.47
+Vera Cruz do Oeste;PR;Santa Terezinha;SC;603.57
+Vera Cruz do Oeste;PR;Laurentino;SC;724.9
+Vera Cruz do Oeste;PR;Ipumirim;SC;395.2
+Vera Cruz do Oeste;PR;Maracajá;SC;1035.26
+Vera Cruz do Oeste;PR;Rio do Oeste;SC;712.95
+Vera Cruz do Oeste;PR;Monte Castelo;SC;551.84
+Vera Cruz do Oeste;PR;Ipuaçu;SC;311.66
+Vera Cruz do Oeste;PR;Palma Sola;SC;222.36
+Vera Cruz do Oeste;PR;Salete;SC;636.27
+Vera Cruz do Oeste;PR;Major Vieira;SC;530.16
+Vera Cruz do Oeste;PR;Treze de Maio;SC;996.05
+Vera Cruz do Oeste;PR;Timbó Grande;SC;553.69
+Vera Cruz do Oeste;PR;Trombudo Central;SC;710.83
+Vera Cruz do Oeste;PR;Campo Belo do Sul;SC;637.1
+Vera Cruz do Oeste;PR;Itá;SC;410.92
+Vera Cruz do Oeste;PR;Ouro;SC;487.41
+Vera Cruz do Oeste;PR;Meleiro;SC;836.19
+Vera Cruz do Oeste;PR;Aurora;SC;737.69
+Vera Cruz do Oeste;PR;Águas Mornas;SC;870.57
+Vera Cruz do Oeste;PR;Petrolândia;SC;747.53
+Vera Cruz do Oeste;PR;Água Doce;SC;499.81
+Vera Cruz do Oeste;PR;Rio do Campo;SC;625.51
+Vera Cruz do Oeste;PR;Caibi;SC;343.33
+Vera Cruz do Oeste;PR;São João do Oeste;SC;336.91
+Vera Cruz do Oeste;PR;Grão-Pará;SC;789.31
+Vera Cruz do Oeste;PR;Rio das Antas;SC;537.14
+Vera Cruz do Oeste;PR;Vidal Ramos;SC;782.69
+Vera Cruz do Oeste;PR;São Cristóvão do Sul;SC;636.4
+Vera Cruz do Oeste;PR;Agronômica;SC;717.5
+Vera Cruz do Oeste;PR;Águas de Chapecó;SC;348.61
+Vera Cruz do Oeste;PR;José Boiteux;SC;656.0
+Vera Cruz do Oeste;PR;Imbuia;SC;776.54
+Vera Cruz do Oeste;PR;Anchieta;SC;249.8
+Vera Cruz do Oeste;PR;Bela Vista do Toldo;SC;523.52
+Vera Cruz do Oeste;PR;Luzerna;SC;521.58
+Vera Cruz do Oeste;PR;São Pedro de Alcântara;SC;858.48
+Vera Cruz do Oeste;PR;Piratuba;SC;495.81
+Vera Cruz do Oeste;PR;Timbé do Sul;SC;802.95
+Vera Cruz do Oeste;PR;Vitor Meireles;SC;637.47
+Vera Cruz do Oeste;PR;Botuverá;SC;811.36
+Vera Cruz do Oeste;PR;Angelina;SC;908.37
+Vera Cruz do Oeste;PR;Nova Erechim;SC;318.38
+Vera Cruz do Oeste;PR;Tunápolis;SC;320.51
+Vera Cruz do Oeste;PR;Erval Velho;SC;480.08
+Vera Cruz do Oeste;PR;Rio Fortuna;SC;822.62
+Vera Cruz do Oeste;PR;Guarujá do Sul;SC;241.59
+Vera Cruz do Oeste;PR;Romelândia;SC;267.31
+Vera Cruz do Oeste;PR;Cordilheira Alta;SC;350.91
+Vera Cruz do Oeste;PR;Riqueza;SC;327.5
+Vera Cruz do Oeste;PR;Caxambu do Sul;SC;385.06
+Vera Cruz do Oeste;PR;Ipira;SC;493.34
+Vera Cruz do Oeste;PR;Vargem Bonita;SC;425.05
+Vera Cruz do Oeste;PR;Lindóia do Sul;SC;403.74
+Vera Cruz do Oeste;PR;Nova Itaberaba;SC;331.64
+Vera Cruz do Oeste;PR;São João do Itaperiú;SC;722.73
+Vera Cruz do Oeste;PR;Ponte Alta;SC;656.31
+Vera Cruz do Oeste;PR;Salto Veloso;SC;495.53
+Vera Cruz do Oeste;PR;Arabutã;SC;420.8
+Vera Cruz do Oeste;PR;Jaborá;SC;456.31
+Vera Cruz do Oeste;PR;Paraíso;SC;303.31
+Vera Cruz do Oeste;PR;Witmarsum;SC;661.0
+Vera Cruz do Oeste;PR;Pedras Grandes;SC;994.72
+Vera Cruz do Oeste;PR;Dona Emma;SC;670.41
+Vera Cruz do Oeste;PR;Modelo;SC;295.04
+Vera Cruz do Oeste;PR;Passos Maia;SC;394.01
+Vera Cruz do Oeste;PR;Bom Jardim da Serra;SC;753.43
+Vera Cruz do Oeste;PR;Braço do Trombudo;SC;710.86
+Vera Cruz do Oeste;PR;Iraceminha;SC;298.51
+Vera Cruz do Oeste;PR;Zortéa;SC;503.27
+Vera Cruz do Oeste;PR;Treviso;SC;798.83
+Vera Cruz do Oeste;PR;Xavantina;SC;375.23
+Vera Cruz do Oeste;PR;Doutor Pedrinho;SC;645.62
+Vera Cruz do Oeste;PR;Vargeão;SC;371.39
+Vera Cruz do Oeste;PR;Saltinho;SC;266.95
+Vera Cruz do Oeste;PR;Anitápolis;SC;929.19
+Vera Cruz do Oeste;PR;Arroio Trinta;SC;506.68
+Vera Cruz do Oeste;PR;Bocaina do Sul;SC;667.56
+Vera Cruz do Oeste;PR;Pinheiro Preto;SC;532.84
+Vera Cruz do Oeste;PR;Calmon;SC;470.73
+Vera Cruz do Oeste;PR;São Martinho;SC;1007.34
+Vera Cruz do Oeste;PR;Entre Rios;SC;334.71
+Vera Cruz do Oeste;PR;Leoberto Leal;SC;795.4
+Vera Cruz do Oeste;PR;Cerro Negro;SC;618.78
+Vera Cruz do Oeste;PR;Serra Alta;SC;287.4
+Vera Cruz do Oeste;PR;Rancho Queimado;SC;895.41
+Vera Cruz do Oeste;PR;Ibicaré;SC;524.44
+Vera Cruz do Oeste;PR;Atalanta;SC;730.65
+Vera Cruz do Oeste;PR;Major Gercino;SC;838.37
+Vera Cruz do Oeste;PR;Galvão;SC;276.43
+Vera Cruz do Oeste;PR;Ponte Alta do Norte;SC;622.44
+Vera Cruz do Oeste;PR;Bandeirante;SC;297.76
+Vera Cruz do Oeste;PR;Morro Grande;SC;818.95
+Vera Cruz do Oeste;PR;Peritiba;SC;473.2
+Vera Cruz do Oeste;PR;Princesa;SC;260.8
+Vera Cruz do Oeste;PR;Chapadão do Lageado;SC;778.08
+Vera Cruz do Oeste;PR;Planalto Alegre;SC;362.5
+Vera Cruz do Oeste;PR;São Bonifácio;SC;910.75
+Vera Cruz do Oeste;PR;Iomerê;SC;525.95
+Vera Cruz do Oeste;PR;Águas Frias;SC;323.79
+Vera Cruz do Oeste;PR;Sul Brasil;SC;686.45
+Vera Cruz do Oeste;PR;Celso Ramos;SC;560.26
+Vera Cruz do Oeste;PR;Bom Jesus;SC;326.15
+Vera Cruz do Oeste;PR;União do Oeste;SC;319.86
+Vera Cruz do Oeste;PR;Matos Costa;SC;453.09
+Vera Cruz do Oeste;PR;São Bernardino;SC;258.67
+Vera Cruz do Oeste;PR;Formosa do Sul;SC;289.77
+Vera Cruz do Oeste;PR;Belmonte;SC;302.18
+Vera Cruz do Oeste;PR;Urupema;SC;685.94
+Vera Cruz do Oeste;PR;Novo Horizonte;SC;262.69
+Vera Cruz do Oeste;PR;Vargem;SC;537.72
+Vera Cruz do Oeste;PR;Capão Alto;SC;649.96
+Vera Cruz do Oeste;PR;Abdon Batista;SC;586.47
+Vera Cruz do Oeste;PR;Santa Terezinha do Progresso;SC;280.73
+Vera Cruz do Oeste;PR;Palmeira;SC;699.28
+Vera Cruz do Oeste;PR;Jupiá;SC;267.19
+Vera Cruz do Oeste;PR;Mirim Doce;SC;689.39
+Vera Cruz do Oeste;PR;Arvoredo;SC;380.53
+Vera Cruz do Oeste;PR;Brunópolis;SC;548.82
+Vera Cruz do Oeste;PR;Santa Helena;SC;315.42
+Vera Cruz do Oeste;PR;Frei Rogério;SC;598.05
+Vera Cruz do Oeste;PR;Rio Rufino;SC;696.57
+Vera Cruz do Oeste;PR;Tigrinhos;SC;288.12
+Vera Cruz do Oeste;PR;Presidente Nereu;SC;768.24
+Vera Cruz do Oeste;PR;Ermo;SC;830.73
+Vera Cruz do Oeste;PR;Lacerdópolis;SC;475.22
+Vera Cruz do Oeste;PR;Painel;SC;659.87
+Vera Cruz do Oeste;PR;Bom Jesus do Oeste;SC;282.5
+Vera Cruz do Oeste;PR;Marema;SC;331.59
+Vera Cruz do Oeste;PR;Ouro Verde;SC;337.22
+Vera Cruz do Oeste;PR;Santa Rosa de Lima;SC;950.78
+Vera Cruz do Oeste;PR;Irati;SC;302.85
+Vera Cruz do Oeste;PR;Coronel Martins;SC;289.11
+Vera Cruz do Oeste;PR;Ibiam;SC;567.11
+Vera Cruz do Oeste;PR;Cunhataí;SC;332.19
+Vera Cruz do Oeste;PR;Paial;SC;390.52
+Vera Cruz do Oeste;PR;Alto Bela Vista;SC;483.51
+Vera Cruz do Oeste;PR;Flor do Sertão;SC;282.56
+Vera Cruz do Oeste;PR;São Miguel da Boa Vista;SC;276.25
+Vera Cruz do Oeste;PR;Macieira;SC;510.25
+Vera Cruz do Oeste;PR;Jardinópolis;SC;314.42
+Vera Cruz do Oeste;PR;Lajeado Grande;SC;342.87
+Vera Cruz do Oeste;PR;Presidente Castello Branco;SC;462.03
+Vera Cruz do Oeste;PR;Barra Bonita;SC;284.44
+Vera Cruz do Oeste;PR;Santiago do Sul;SC;319.48
